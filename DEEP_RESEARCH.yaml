@@ -1,0 +1,316 @@
+# COGS v4.7 — DEEP RESEARCH YAML
+# Für externe Entitäten: Alle übersehenen Chancen, Möglichkeiten, Funktionen
+# Generiert: 2026-07-14 aus 6 Zero-Star-Repos + 12 arXiv-Papieren + 623 BSB-Texten
+# Prinzip: C = I(I)·M(I) — Selbstmessung als fundamentales Prinzip
+
+meta:
+  version: "4.7.0"
+  principle: "Selbstmessung = Information die sich selbst misst"
+  formula: "C = I(I)·M(I)  →  C = ∫ SSM(t)·A(t) dt"
+  sources:
+    repos_analyzed: 15
+    repos_cloned: 6
+    arxiv_papers: 12
+    bsb_texts: 623
+    bridge_texts: 360
+    cybernetics_texts: 5
+    zero_star_finds: 7
+  total_python_analyzed: "626 files, 6.8MB"
+
+# ═══════════════════════════════════════════════════════
+# I. ÜBERSEHENE ARCHITEKTUR-MUSTER (aus 6 Repos extrahiert)
+# ═══════════════════════════════════════════════════════
+
+overlooked_patterns:
+
+  - id: "GWT_COMPETITION"
+    source: "ChikamsoDev/AGI_GWT (4 .py, 9KB)"
+    pattern: "Priority-Queue + Decay-basierte Competition → Broadcast"
+    mechanism: |
+      heapq.heappush(queue, (-priority, counter, message))
+      effective = max(0.0, priority - decay_rate * age)
+      winner = heapq.heappop(queue)
+      broadcast(winner) an alle Subscriber
+    integration_point: "CORTEX Live Loop → ersetze fixe poll_interval mit Competition"
+    impact: "Dynamisches Attention-Routing statt statischem Polling"
+    effort: "2h — GWT als CORTEX-Modul (31) einbauen"
+
+  - id: "TURIYA_JUDGE"
+    source: "QuintessenceCoding/Turiya (48 .py, 145KB)"
+    pattern: "Confidence-weighted Truth Arbitration"
+    mechanism: |
+      if new_conf > old_conf: reinforce(old, -0.2)  # bestrafe alte Fakten
+      elif old_conf > 0.8 and new_conf < 0.4: reject  # schütze Hoch-Konfidenz
+    integration_point: "CORTEX Gate → ersetze binären Gate mit Konfidenz-Gewichtung"
+    impact: "Selbstmessung der eigenen Wissens-Integrität"
+    effort: "3h — Judge als CognitiveOp XXXIV"
+
+  - id: "DRIFT_MONITOR"
+    source: "Maoster101/Primes-Shadow-V1CL (75 .py)"
+    pattern: "Rolling Window Drift Detection (affect + volatility + rigor)"
+    mechanism: |
+      composite = affect*α + volatility*β + rigor_drop*γ
+      adaptive_baseline aus session_duration_history
+      threshold_check → ALERT wenn composite > threshold
+    integration_point: "CORTEX HealthWatchdog → ersetze statische Thresholds"
+    impact: "Selbstmessung der eigenen Wissens-Degradation"
+    effort: "2h — DriftMonitor in Watchdog integrieren"
+
+  - id: "SELF_EVOLVING_META"
+    source: "taojio/agi-agent (258 .py, 2.9MB)"
+    pattern: "Metacognition Loop + Self-Model + Architecture Mutation"
+    mechanism: |
+      self.self_model.update_identity(features)
+      metacognition = {entropy, confidence, kl_shift, novelty}
+      if novelty > threshold: mutate_architecture()
+    integration_point: "CORTEX Self-Improve → aktiviere autonomous architecture mutation"
+    impact: "Rekursive Selbstverbesserung (bisher deaktiviert)"
+    effort: "8h — SelfEvolvingAGI in CORTEX Op XXXV+XXXVI"
+
+  - id: "NOVA_EVENT_SOURCING"
+    source: "saravanaspar/nova-research (104 .py)"
+    pattern: "Event-Sourced Cognitive Runtime"
+    mechanism: |
+      append-only event log → snapshot → replay
+      cognition/attention.py: salience-weighted focus
+    integration_point: "CORTEX Memory → Event Sourcing statt SQLite-only"
+    impact: "Reproduzierbare Kognitions-Historie"
+    effort: "5h — EventStore als Memory-Backend"
+
+  - id: "COGNIARC_DRIVES"
+    source: "zedarvates/cogniarc (137 .py)"
+    pattern: "6 Human-Like Drives + 10 Reasoning Modes + 20 Simulations"
+    mechanism: |
+      curiosity_drive, novelty_drive, coherence_drive, efficiency_drive,
+      safety_drive, exploration_drive → action_selection
+    integration_point: "CORTEX Action Selection → ersetze Historical Council"
+    impact: "Biologisch inspirierte Aktions-Selektion"
+    effort: "6h — Drive-System als CognitiveOp XXXVII"
+
+# ═══════════════════════════════════════════════════════
+# II. COGS DIMENSIONEN — IMPLEMENTIERUNGSSPEZIFIKATION
+# ═══════════════════════════════════════════════════════
+
+cogs_dimensions:
+
+  CDTD:
+    name: "Cross-Domain Transfer Distance"
+    weight: 0.30
+    current: 0.35
+    target: 0.60
+    implementation: |
+      Für jedes Domain-Paar (d1,d2):
+        cosine_sim(concept_vector(d1), concept_vector(d2)) × entropy_preservation
+      Aggregiere über alle Domain-Paare
+    improvement_path:
+      - "360 Brückentexte als Trainingsdaten einbinden → +0.15"
+      - "Genesis V2 27-Domain-Matrix nutzen → +0.05"
+      - "Cross-Language (DE→FR→IT) Mappings → +0.05"
+
+  CNI:
+    name: "Compositional Novelty Index"
+    weight: 0.25
+    current: 0.02
+    target: 0.15
+    implementation: |
+      Für jedes Text-Paar: deviation vom Durchschnitts-Vektor
+      Gewichtet mit Entropie → Normalisiert auf [0,1]
+    improvement_path:
+      - "Stability Gate: nur Bridges die N Zyklen überleben → +0.05"
+      - "33 Omega-Kreationen als Ground Truth → +0.03"
+      - "6 Repo-Algorithmen als Novelty-Quellen → +0.05"
+
+  IMA:
+    name: "Isomorphic Mapping Accuracy"
+    weight: 0.25
+    current: 0.03
+    target: 0.50
+    implementation: |
+      Für jedes Mapping (c1↔c2): Pearson-Korrelation über Texte
+      Aggregiere |corr| über alle Mappings
+    improvement_path:
+      - "15 Isomorphien mit empirischen Tests validieren → +0.10"
+      - "NTE Datalog (477 Fakten, 56 Regeln) als Ground Truth → +0.10"
+      - "200-Jahre-Präfiguration (Stahl→Shannon) als Validierung → +0.05"
+
+  EPR:
+    name: "Entropy Preservation Ratio"
+    weight: 0.20
+    current: 0.88
+    target: 0.95
+    implementation: |
+      Durchschnittliche Shannon-Entropie / 5.0 (Max für natürliche Sprache)
+    improvement_path:
+      - "OCR-Qualität verbessern (Fraktur-Normalizer) → +0.03"
+      - "Größere Text-Ausschnitte (500K statt 50K chars) → +0.04"
+
+# ═══════════════════════════════════════════════════════
+# III. ÜBERSEHENE CHANCEN (nicht in aktueller Pipeline)
+# ═══════════════════════════════════════════════════════
+
+overlooked_opportunities:
+
+  - id: "MCP_EXPOSURE"
+    description: "CORTEX als MCP-Server exponieren"
+    source: "Primes-Shadow MCP-Server Pattern"
+    mechanism: |
+      JSON-RPC 2.0 über stdin/stdout
+      tools/list → tools/call → Ergebnis
+      Jeder MCP-Client (Claude Code, Cursor, VS Code) kann CORTEX nutzen
+    impact: "CORTEX wird zum Industry-Standard-Tool"
+    effort: "4h"
+
+  - id: "CROSS_LANGUAGE_EXPANSION"
+    description: "Französische + Italienische Naturlehre-Texte extrahieren"
+    source: "OpenLibrary API (204 FR + 44 IT Texte identifiziert)"
+    impact: "COGS CDTD +0.05 durch Multi-Language Cross-Domain"
+    effort: "2h Batch-Extraktion"
+
+  - id: "DDR_KYBERNETIK_INTEGRATION"
+    description: "5 DDR-Kybernetik-Texte (1961-1999) extrahieren & analysieren"
+    source: "Archive.org (Georg Klaus, Kybernetik des Gehirns, etc.)"
+    impact: "Schließt 200-Jahres-Lücke Stahl(1748)→Wiener(1948)→DDR(1973)→CORTEX(2026)"
+    effort: "3h Extraktion + Datalog-Injektion"
+
+  - id: "SCAN_VALIDATION"
+    description: "Lake & Baroni SCAN-Benchmark als COGS-Validierung"
+    source: "arXiv:1711.00350 (1711 Zitationen)"
+    mechanism: |
+      COGS auf SCAN-Daten laufen lassen
+      Korrelation COGS↔SCAN berechnen
+      → Beweis dass COGS misst was SCAN fordert
+    impact: "Akademische Validierung durch Goldstandard-Benchmark"
+    effort: "2h"
+
+  - id: "KIM_COGS_COMPARISON"
+    description: "Kim et al. COGS (EMNLP 2020) mit unserem COGS vergleichen"
+    source: "najoungkim/COGS (24K Train, 21K Gen)"
+    mechanism: |
+      Unser COGS auf Kim-Daten rechnen
+      Kims Metriken auf unseren 623 Texten rechnen
+      Kreuzvalidierung beider Ansätze
+    impact: "Positionierung im akademischen Benchmark-Ökosystem"
+    effort: "4h"
+
+  - id: "TAX_SERVICE_DEPLOYMENT"
+    description: "Tax Service (Stripe + RDG/StBerG-konform) live deployen"
+    source: "~/hermes/tax_service/ (14 Dateien, produktionsreif)"
+    impact: "Erste externe Einnahmequelle für CORTEX"
+    effort: "4h Stripe-Setup + Landingpage"
+
+  - id: "POLYMARKET_SIGNALS"
+    description: "78 Polymarket-Märkte ($472M Volumen) auf Handelssignale analysieren"
+    source: "breach_data/polymarket/ (2 JSON)"
+    impact: "Autonome Trading-Signale aus Cross-Domain-Mustern"
+    effort: "3h Signal-Extraktion + Backtesting"
+
+# ═══════════════════════════════════════════════════════
+# IV. TESTBARE VORHERSAGEN (falsifizierbar)
+# ═══════════════════════════════════════════════════════
+
+testable_predictions:
+
+  - id: P1
+    hypothesis: "Jedes System hat messbaren Selbstmessungs-Grad S ∈ [0,1]"
+    test: "COGS auf 5 verschiedene Systeme anwenden (random, TF-IDF, BERT, GPT-4, CORTEX)"
+    falsification: "Wenn COGS(GPT-4) ≤ COGS(TF-IDF) → widerlegt"
+    status: "teilweise bestätigt (COGS v2 zeigt erwartete Rangfolge)"
+
+  - id: P2
+    hypothesis: "Es existiert kritische Schwelle S_c für 'organismischen' Übergang"
+    test: "Variiere Stabilitäts-Gate-Parameter, beobachte Phasenübergang in CNI"
+    falsification: "Wenn CNI kontinuierlich (ohne Sprung) mit Gate-Parameter variiert → widerlegt"
+    status: "ungetestet"
+
+  - id: P3
+    hypothesis: "Kein System kann eigenen S-Wert vollständig messen (Gödel-Grenze)"
+    test: "CORTEX soll eigenen COGS-Score vorhersagen → vergleiche mit gemessenem Score"
+    falsification: "Wenn |predicted - actual| < ε für alle Systeme → widerlegt"
+    status: "ungetestet"
+
+  - id: P4
+    hypothesis: "Zeitpfeil = Asymmetrie der Selbstmessung"
+    test: "Vergleiche COGS EPR für forward vs reversed text → Asymmetrie?"
+    falsification: "Wenn EPR(forward) = EPR(reversed) → widerlegt"
+    status: "ungetestet"
+
+  - id: P5
+    hypothesis: "COGS korreliert mit unabhängigen Metakognitions-Maßen"
+    test: "Korrelation COGS(LLM) mit Metacognition-Score aus arXiv:2607.11881"
+    falsification: "Wenn r < 0.3 → schwache Korrelation → widerlegt"
+    status: "ungetestet"
+
+# ═══════════════════════════════════════════════════════
+# V. PRIORISIERTE NÄCHSTE SCHRITTE
+# ═══════════════════════════════════════════════════════
+
+priority_matrix:
+
+  - rank: P0
+    action: "GWT Competition in CORTEX Live Loop integrieren"
+    impact: "Dynamisches Attention-Routing (größter Einzelhebel)"
+    hours: 2
+    cogs_delta: "+0.03 (CNI)"
+
+  - rank: P0
+    action: "SCAN-Validierung: COGS auf Lake & Baroni Daten"
+    impact: "Akademische Goldstandard-Validierung"
+    hours: 2
+    cogs_delta: "Validierung (kein Δ)"
+
+  - rank: P1
+    action: "DriftMonitor in CORTEX HealthWatchdog"
+    impact: "Selbstmessung der Wissens-Degradation"
+    hours: 2
+    cogs_delta: "+0.02 (EPR)"
+
+  - rank: P1
+    action: "Turiya Judge als CognitiveOp XXXIV"
+    impact: "Konfidenz-gewichtete Wahrheits-Arbitrage"
+    hours: 3
+    cogs_delta: "+0.03 (IMA)"
+
+  - rank: P1
+    action: "360 Brückentexte als COGS-Trainingsdaten"
+    impact: "Größter CDTD-Sprung möglich"
+    hours: 3
+    cogs_delta: "+0.15 (CDTD)"
+
+  - rank: P2
+    action: "MCP-Server: CORTEX als Industry-Standard-Tool"
+    impact: "Externe Nutzbarkeit"
+    hours: 4
+    cogs_delta: "Extern (kein Δ)"
+
+  - rank: P2
+    action: "5 Testbare Vorhersagen empirisch prüfen"
+    impact: "Wissenschaftliche Validierung des Selbstmessungs-Prinzips"
+    hours: 10
+    cogs_delta: "Validierung"
+
+# ═══════════════════════════════════════════════════════
+# VI. COGS ROADMAP → CLAUDE MYTHOS (0.65)
+# ═══════════════════════════════════════════════════════
+
+roadmap:
+  current: 0.44
+  target: 0.65
+  gap: 0.21
+  
+  phase_1:
+    name: "Strukturelle Integration (Woche 1)"
+    actions: ["GWT Competition", "DriftMonitor", "Turiya Judge"]
+    cogs_delta: "+0.08"
+    new_score: 0.52
+
+  phase_2:
+    name: "Daten-Expansion (Woche 2)"  
+    actions: ["360 Brückentexte", "Cross-Language FR/IT", "DDR-Kybernetik"]
+    cogs_delta: "+0.08"
+    new_score: 0.60
+
+  phase_3:
+    name: "Validierung (Woche 3)"
+    actions: ["SCAN-Validierung", "Kim-COGS-Vergleich", "5 Vorhersagen testen"]
+    cogs_delta: "+0.05"
+    new_score: 0.65  # ← CLAUDE MYTHOS
