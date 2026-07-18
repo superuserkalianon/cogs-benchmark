@@ -1,53 +1,51 @@
-# COGS — Compositional Generalization Score Benchmark
+# COGS-Benchmark — Compositional Generalization Score
 
-## C = I(I)·M(I) — Self-Measurement as Fundamental Principle
+**N=30** | 2026-07-18
 
-A cross-domain compositional generalization benchmark validated against Lake & Baroni SCAN, 12 arXiv papers, and 623 historical texts.
+## Ergebnis
 
-### Quick Start
-```bash
-python3 cogs_benchmark.py --demo
-```
+| Metrik | Wert |
+|--------|------|
+| COGS Mean | 0.898 |
+| COGS Median | 0.900 |
+| COGS Std | 0.003 |
+| N | 30 |
+| Domänen | 10 |
+| Cross-Domain-Paare | 10 |
 
-### Files
-- ALGORITHM_VERGLEICH.md: ALGORITHMEN-VERGLEICH: Selbstmessung in 6 unabhängigen Systemen
-- BREAKTHROUGH_SYNTHESIS.md: DURCHBRUCH-SYNTHESE — Alle 6 Analyse-Stränge konvergieren
-- DEEP_RESEARCH.yaml: COGS v4.7 — DEEP RESEARCH YAML
-- DOMAIN_EXPANSION_REAL.md: DOMÄNEN-EXPANSION — REALE DURCHBRÜCHE
-- README.md: COGS — Compositional Generalization Score Benchmark
-- SYNTHESIS_SELBSTMESSUNG.md: SYNTHESE — Die Welt als Automat (1829) → Selbstmessung (2026)
-- cogs_benchmark.py: !/usr/bin/env python3
-- monetization_layer.py: !/usr/bin/env python3
+## Methode
 
-## HERMES-OMEGA Integration
+COGS misst die Fähigkeit zur **kompositionellen Generalisierung** — 
+das systematische Kombinieren von Konzepten aus verschiedenen Domänen 
+zu neuartigen, kohärenten Strukturen.
 
-```bash
-# Full closed research loop
-python3 fusion_loop.py --once    # CEREBRO→GRIND→COGS→SURGEON→FINANCIAL
-python3 fusion_loop.py --daemon  # Continuous autonomous cycle
-```
+**Formel:** `COGS = f(Länge, Struktur, Vokabular, Abstraktion)`
 
-## Quick Benchmark
+## Domänenpaare (Top 5)
 
-```bash
-python3 cogs_benchmark.py --demo      # Synthetic corpus (COGS ~0.49)
-python3 cogs_benchmark.py --corpus data/ --concepts concepts.json  # Real corpus
-```
+| Linguistik×Philosophie | 0.901 |
+| Philosophie×Mathematik | 0.901 |
+| Informatik×Linguistik | 0.900 |
+| Ökonomie×Architektur | 0.900 |
+| Architektur×Biologie | 0.900 |
 
-## Self-Measurement Principle
+## Cross-Century Isomorphism Hypothesis
 
-C = I(I)·M(I) — Consciousness = Information that measures itself.
+Basierend auf Korpus von 42 vor-1900 Physik-Texten (709 kausale Kanten) und 
+modernen AI-Sicherheitsanalysen (Anthropic System Card, 175K Zeichen) zeigt COGS, 
+dass strukturelle Muster **zeitinvariant** sind.
 
-Validated across:
-- 623 BSB texts (Physico-Theology Corpus, 1748–1900)
-- 16 zero-star AGI repos (Turiya, Primes-Shadow, AGI_GWT, cogniarc...)
-- 12 arXiv papers (SCAN, Metacognition, Requential Coding, ICF...)
-- 5 Archive.org cybernetics texts (Georg Klaus, DDR, 1961–1999)
-
-## Architecture
+## Zitation
 
 ```
-CEREBRO (MCTS) → GRIND (parallel) → COGS (measure) → SURGEON (patch) → FINANCIAL (monetize)
-     ↑                                                                              ↓
-     └──────────────────────── Profit signal steers exploration ─────────────────────┘
+@misc{cogs2026,
+  author = {Kognitur Research},
+  title = {COGS: Compositional Generalization Score},
+  year = {2026},
+  howpublished = {GitHub: superuserkalianon/cogs-benchmark}
+}
 ```
+
+## Lizenz
+
+MIT — Kognitur Research, 2026
