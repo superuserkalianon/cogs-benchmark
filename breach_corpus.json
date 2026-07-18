@@ -1,0 +1,10029 @@
+{
+  "discoveries": [
+    {
+      "cause": "Aether",
+      "effect": "Hermetik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 136
+    },
+    {
+      "cause": "Aether",
+      "effect": "OrganPhysik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 136
+    },
+    {
+      "cause": "Aether",
+      "effect": "Kognition",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 136
+    },
+    {
+      "cause": "Aether",
+      "effect": "Bewusstsein",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 190
+    },
+    {
+      "cause": "Aether",
+      "effect": "Algorithmus",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 153
+    },
+    {
+      "cause": "Aether",
+      "effect": "Entropie",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 153
+    },
+    {
+      "cause": "Aether",
+      "effect": "Kybernetik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 153
+    },
+    {
+      "cause": "Aether",
+      "effect": "Rueckkopplung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 153
+    },
+    {
+      "cause": "Aether",
+      "effect": "Regelung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "Aether",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 153
+    },
+    {
+      "cause": "Kraft",
+      "effect": "Hermetik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 210
+    },
+    {
+      "cause": "Kraft",
+      "effect": "OrganPhysik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 210
+    },
+    {
+      "cause": "Kraft",
+      "effect": "Kognition",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 210
+    },
+    {
+      "cause": "Magnet",
+      "effect": "Hermetik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 153
+    },
+    {
+      "cause": "Magnet",
+      "effect": "OrganPhysik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 153
+    },
+    {
+      "cause": "Magnet",
+      "effect": "Kognition",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 153
+    },
+    {
+      "cause": "Magnet",
+      "effect": "Algorithmus",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "Magnet",
+      "effect": "Entropie",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "Magnet",
+      "effect": "Kybernetik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "Magnet",
+      "effect": "Rueckkopplung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "Magnet",
+      "effect": "Regelung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 190
+    },
+    {
+      "cause": "Magnet",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "Electric",
+      "effect": "Hermetik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 153
+    },
+    {
+      "cause": "Electric",
+      "effect": "Magia",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "Electric",
+      "effect": "OrganPhysik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 153
+    },
+    {
+      "cause": "Electric",
+      "effect": "Kognition",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 153
+    },
+    {
+      "cause": "Electric",
+      "effect": "Bewusstsein",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 210
+    },
+    {
+      "cause": "Electric",
+      "effect": "Algorithmus",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "Electric",
+      "effect": "Entropie",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "Electric",
+      "effect": "Kybernetik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "Electric",
+      "effect": "Rueckkopplung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "Electric",
+      "effect": "Regelung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 190
+    },
+    {
+      "cause": "Electric",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Hermetik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 21
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Magia",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 28
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "OrganPhysik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 21
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Kognition",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 21
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Bewusstsein",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 45
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Algorithmus",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 28
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Entropie",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 28
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Kybernetik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 28
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Rueckkopplung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 28
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Regelung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 36
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 105
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 28
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "Sympathie",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 28
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "Intelligenz",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 153
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "Bewusstsein",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 15
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Hermetik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 10
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Magia",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 15
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "OrganPhysik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 10
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Teilchen",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 45
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Kognition",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 10
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Algorithmus",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 15
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Information",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 78
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Entropie",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 15
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Kybernetik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 15
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Rueckkopplung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 15
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Regelung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 21
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 78
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 15
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "Naturlehre",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 36
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "Quanten",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 120
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "Welle",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 231
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "Teilchen",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 10
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "Feld",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 435
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "Energie",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 136
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "Intelligenz",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 105
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "Denken",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 325
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "Gehirn",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "Neuron",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 325
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "Logik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 190
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "Automat",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 78
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "Maschine",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 190
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "Information",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 28
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "System",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 190
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 45
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 28
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "Berechnung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 190
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "Zahl",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 378
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "Methode",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 406
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 21
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 15
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 153
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "Wesen",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 231
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 105
+    },
+    {
+      "cause": "Hermetik",
+      "effect": "Wahrheit",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 351
+    },
+    {
+      "cause": "Magia",
+      "effect": "Naturlehre",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 45
+    },
+    {
+      "cause": "Magia",
+      "effect": "Quanten",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 136
+    },
+    {
+      "cause": "Magia",
+      "effect": "Teilchen",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 10
+    },
+    {
+      "cause": "Magia",
+      "effect": "Energie",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 153
+    },
+    {
+      "cause": "Magia",
+      "effect": "Intelligenz",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 120
+    },
+    {
+      "cause": "Magia",
+      "effect": "Neuron",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 325
+    },
+    {
+      "cause": "Magia",
+      "effect": "Logik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 210
+    },
+    {
+      "cause": "Magia",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 55
+    },
+    {
+      "cause": "Magia",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 36
+    },
+    {
+      "cause": "Magia",
+      "effect": "Methode",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 406
+    },
+    {
+      "cause": "Magia",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 28
+    },
+    {
+      "cause": "Magia",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 21
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "OrganPhysik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 36
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Kognition",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 36
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Bewusstsein",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 66
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Algorithmus",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 45
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Entropie",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 45
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Kybernetik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 45
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Rueckkopplung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 45
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Netzwerk",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 55
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Regelung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 55
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 45
+    },
+    {
+      "cause": "OrganPhysik",
+      "effect": "Quanten",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 120
+    },
+    {
+      "cause": "OrganPhysik",
+      "effect": "Welle",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 231
+    },
+    {
+      "cause": "OrganPhysik",
+      "effect": "Teilchen",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 10
+    },
+    {
+      "cause": "OrganPhysik",
+      "effect": "Feld",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 435
+    },
+    {
+      "cause": "OrganPhysik",
+      "effect": "Energie",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 136
+    },
+    {
+      "cause": "OrganPhysik",
+      "effect": "Intelligenz",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 105
+    },
+    {
+      "cause": "OrganPhysik",
+      "effect": "Denken",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 325
+    },
+    {
+      "cause": "OrganPhysik",
+      "effect": "Gehirn",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "OrganPhysik",
+      "effect": "Neuron",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 325
+    },
+    {
+      "cause": "OrganPhysik",
+      "effect": "Logik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 190
+    },
+    {
+      "cause": "OrganPhysik",
+      "effect": "Automat",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 78
+    },
+    {
+      "cause": "OrganPhysik",
+      "effect": "Maschine",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 190
+    },
+    {
+      "cause": "OrganPhysik",
+      "effect": "Information",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 28
+    },
+    {
+      "cause": "OrganPhysik",
+      "effect": "System",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 190
+    },
+    {
+      "cause": "OrganPhysik",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 45
+    },
+    {
+      "cause": "OrganPhysik",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 28
+    },
+    {
+      "cause": "OrganPhysik",
+      "effect": "Berechnung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 190
+    },
+    {
+      "cause": "OrganPhysik",
+      "effect": "Zahl",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 378
+    },
+    {
+      "cause": "OrganPhysik",
+      "effect": "Methode",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 406
+    },
+    {
+      "cause": "OrganPhysik",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 21
+    },
+    {
+      "cause": "OrganPhysik",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 15
+    },
+    {
+      "cause": "OrganPhysik",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 153
+    },
+    {
+      "cause": "OrganPhysik",
+      "effect": "Wesen",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 231
+    },
+    {
+      "cause": "OrganPhysik",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 105
+    },
+    {
+      "cause": "OrganPhysik",
+      "effect": "Wahrheit",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 351
+    },
+    {
+      "cause": "Quanten",
+      "effect": "Kognition",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 120
+    },
+    {
+      "cause": "Quanten",
+      "effect": "Algorithmus",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 136
+    },
+    {
+      "cause": "Quanten",
+      "effect": "Entropie",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 136
+    },
+    {
+      "cause": "Quanten",
+      "effect": "Kybernetik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 136
+    },
+    {
+      "cause": "Quanten",
+      "effect": "Rueckkopplung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 136
+    },
+    {
+      "cause": "Quanten",
+      "effect": "Regelung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 136
+    },
+    {
+      "cause": "Quanten",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 136
+    },
+    {
+      "cause": "Welle",
+      "effect": "Kognition",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 231
+    },
+    {
+      "cause": "Welle",
+      "effect": "Algorithmus",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 253
+    },
+    {
+      "cause": "Welle",
+      "effect": "Entropie",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 253
+    },
+    {
+      "cause": "Welle",
+      "effect": "Kybernetik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 253
+    },
+    {
+      "cause": "Welle",
+      "effect": "Rueckkopplung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 253
+    },
+    {
+      "cause": "Welle",
+      "effect": "Netzwerk",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 276
+    },
+    {
+      "cause": "Welle",
+      "effect": "Regelung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 276
+    },
+    {
+      "cause": "Welle",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 253
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Kognition",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 10
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Bewusstsein",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 28
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Algorithmus",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 15
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Entropie",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 15
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Kybernetik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 15
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Rueckkopplung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 15
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Netzwerk",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 28
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Regelung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 21
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 15
+    },
+    {
+      "cause": "Feld",
+      "effect": "Kognition",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 435
+    },
+    {
+      "cause": "Energie",
+      "effect": "Kognition",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 136
+    },
+    {
+      "cause": "Energie",
+      "effect": "Algorithmus",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 153
+    },
+    {
+      "cause": "Energie",
+      "effect": "Entropie",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 153
+    },
+    {
+      "cause": "Energie",
+      "effect": "Kybernetik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 153
+    },
+    {
+      "cause": "Energie",
+      "effect": "Rueckkopplung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 153
+    },
+    {
+      "cause": "Energie",
+      "effect": "Regelung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 153
+    },
+    {
+      "cause": "Energie",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 153
+    },
+    {
+      "cause": "Intelligenz",
+      "effect": "Kognition",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 105
+    },
+    {
+      "cause": "Intelligenz",
+      "effect": "Algorithmus",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 120
+    },
+    {
+      "cause": "Intelligenz",
+      "effect": "Information",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 253
+    },
+    {
+      "cause": "Intelligenz",
+      "effect": "Entropie",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 120
+    },
+    {
+      "cause": "Intelligenz",
+      "effect": "Kybernetik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 120
+    },
+    {
+      "cause": "Intelligenz",
+      "effect": "Rueckkopplung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 120
+    },
+    {
+      "cause": "Intelligenz",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 120
+    },
+    {
+      "cause": "Kognition",
+      "effect": "Denken",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 325
+    },
+    {
+      "cause": "Kognition",
+      "effect": "Gehirn",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "Kognition",
+      "effect": "Neuron",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 325
+    },
+    {
+      "cause": "Kognition",
+      "effect": "Logik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 190
+    },
+    {
+      "cause": "Kognition",
+      "effect": "Automat",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 78
+    },
+    {
+      "cause": "Kognition",
+      "effect": "Maschine",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 190
+    },
+    {
+      "cause": "Kognition",
+      "effect": "Information",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 28
+    },
+    {
+      "cause": "Kognition",
+      "effect": "System",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 190
+    },
+    {
+      "cause": "Kognition",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 45
+    },
+    {
+      "cause": "Kognition",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 28
+    },
+    {
+      "cause": "Kognition",
+      "effect": "Berechnung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 190
+    },
+    {
+      "cause": "Kognition",
+      "effect": "Zahl",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 378
+    },
+    {
+      "cause": "Kognition",
+      "effect": "Methode",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 406
+    },
+    {
+      "cause": "Kognition",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 21
+    },
+    {
+      "cause": "Kognition",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 15
+    },
+    {
+      "cause": "Kognition",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 153
+    },
+    {
+      "cause": "Kognition",
+      "effect": "Wesen",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 231
+    },
+    {
+      "cause": "Kognition",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 105
+    },
+    {
+      "cause": "Kognition",
+      "effect": "Wahrheit",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 351
+    },
+    {
+      "cause": "Bewusstsein",
+      "effect": "Automat",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 120
+    },
+    {
+      "cause": "Bewusstsein",
+      "effect": "Information",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 55
+    },
+    {
+      "cause": "Bewusstsein",
+      "effect": "Netzwerk",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 15
+    },
+    {
+      "cause": "Bewusstsein",
+      "effect": "Berechnung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 253
+    },
+    {
+      "cause": "Gehirn",
+      "effect": "Algorithmus",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "Gehirn",
+      "effect": "Entropie",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "Gehirn",
+      "effect": "Kybernetik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "Gehirn",
+      "effect": "Rueckkopplung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "Gehirn",
+      "effect": "Regelung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "Gehirn",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "Neuron",
+      "effect": "Algorithmus",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 351
+    },
+    {
+      "cause": "Neuron",
+      "effect": "Entropie",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 351
+    },
+    {
+      "cause": "Neuron",
+      "effect": "Kybernetik",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 351
+    },
+    {
+      "cause": "Neuron",
+      "effect": "Rueckkopplung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 351
+    },
+    {
+      "cause": "Neuron",
+      "effect": "Regelung",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 351
+    },
+    {
+      "cause": "Neuron",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 351
+    },
+    {
+      "cause": "Algorithmus",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 15
+    },
+    {
+      "cause": "Algorithmus",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "Entropie",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 15
+    },
+    {
+      "cause": "Entropie",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "Kybernetik",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 15
+    },
+    {
+      "cause": "Kybernetik",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "Rueckkopplung",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 15
+    },
+    {
+      "cause": "Rueckkopplung",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "Synthesis",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 15
+    },
+    {
+      "cause": "Synthesis",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 1.0,
+      "direction_agreement": 0.0,
+      "pairs": 171
+    },
+    {
+      "cause": "Magia",
+      "effect": "Denken",
+      "relation": "decreases",
+      "confidence": 0.994,
+      "direction_agreement": 0.003,
+      "pairs": 325
+    },
+    {
+      "cause": "Welle",
+      "effect": "Bewusstsein",
+      "relation": "decreases",
+      "confidence": 0.993,
+      "direction_agreement": 0.004,
+      "pairs": 276
+    },
+    {
+      "cause": "Bewusstsein",
+      "effect": "Neuron",
+      "relation": "decreases",
+      "confidence": 0.989,
+      "direction_agreement": 0.006,
+      "pairs": 351
+    },
+    {
+      "cause": "Algorithmus",
+      "effect": "Wahrheit",
+      "relation": "decreases",
+      "confidence": 0.989,
+      "direction_agreement": 0.006,
+      "pairs": 351
+    },
+    {
+      "cause": "Entropie",
+      "effect": "Wahrheit",
+      "relation": "decreases",
+      "confidence": 0.989,
+      "direction_agreement": 0.006,
+      "pairs": 351
+    },
+    {
+      "cause": "Kybernetik",
+      "effect": "Wahrheit",
+      "relation": "decreases",
+      "confidence": 0.989,
+      "direction_agreement": 0.006,
+      "pairs": 351
+    },
+    {
+      "cause": "Rueckkopplung",
+      "effect": "Wahrheit",
+      "relation": "decreases",
+      "confidence": 0.989,
+      "direction_agreement": 0.006,
+      "pairs": 351
+    },
+    {
+      "cause": "Synthesis",
+      "effect": "Wahrheit",
+      "relation": "decreases",
+      "confidence": 0.989,
+      "direction_agreement": 0.006,
+      "pairs": 351
+    },
+    {
+      "cause": "Bewusstsein",
+      "effect": "Gehirn",
+      "relation": "decreases",
+      "confidence": 0.981,
+      "direction_agreement": 0.01,
+      "pairs": 210
+    },
+    {
+      "cause": "Energie",
+      "effect": "Bewusstsein",
+      "relation": "decreases",
+      "confidence": 0.977,
+      "direction_agreement": 0.012,
+      "pairs": 171
+    },
+    {
+      "cause": "Denken",
+      "effect": "Algorithmus",
+      "relation": "decreases",
+      "confidence": 0.975,
+      "direction_agreement": 0.012,
+      "pairs": 325
+    },
+    {
+      "cause": "Denken",
+      "effect": "Entropie",
+      "relation": "decreases",
+      "confidence": 0.975,
+      "direction_agreement": 0.012,
+      "pairs": 325
+    },
+    {
+      "cause": "Denken",
+      "effect": "Kybernetik",
+      "relation": "decreases",
+      "confidence": 0.975,
+      "direction_agreement": 0.012,
+      "pairs": 325
+    },
+    {
+      "cause": "Denken",
+      "effect": "Rueckkopplung",
+      "relation": "decreases",
+      "confidence": 0.975,
+      "direction_agreement": 0.012,
+      "pairs": 325
+    },
+    {
+      "cause": "Denken",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 0.975,
+      "direction_agreement": 0.012,
+      "pairs": 325
+    },
+    {
+      "cause": "Kraft",
+      "effect": "Algorithmus",
+      "relation": "decreases",
+      "confidence": 0.971,
+      "direction_agreement": 0.014,
+      "pairs": 210
+    },
+    {
+      "cause": "Kraft",
+      "effect": "Entropie",
+      "relation": "decreases",
+      "confidence": 0.971,
+      "direction_agreement": 0.014,
+      "pairs": 210
+    },
+    {
+      "cause": "Kraft",
+      "effect": "Kybernetik",
+      "relation": "decreases",
+      "confidence": 0.971,
+      "direction_agreement": 0.014,
+      "pairs": 210
+    },
+    {
+      "cause": "Kraft",
+      "effect": "Rueckkopplung",
+      "relation": "decreases",
+      "confidence": 0.971,
+      "direction_agreement": 0.014,
+      "pairs": 210
+    },
+    {
+      "cause": "Kraft",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 0.971,
+      "direction_agreement": 0.014,
+      "pairs": 210
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Berechnung",
+      "relation": "decreases",
+      "confidence": 0.968,
+      "direction_agreement": 0.016,
+      "pairs": 253
+    },
+    {
+      "cause": "Kraft",
+      "effect": "Regelung",
+      "relation": "decreases",
+      "confidence": 0.965,
+      "direction_agreement": 0.017,
+      "pairs": 231
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Intelligenz",
+      "relation": "decreases",
+      "confidence": 0.965,
+      "direction_agreement": 0.017,
+      "pairs": 231
+    },
+    {
+      "cause": "Bewusstsein",
+      "effect": "Maschine",
+      "relation": "decreases",
+      "confidence": 0.962,
+      "direction_agreement": 0.019,
+      "pairs": 210
+    },
+    {
+      "cause": "Electric",
+      "effect": "Netzwerk",
+      "relation": "decreases",
+      "confidence": 0.958,
+      "direction_agreement": 0.021,
+      "pairs": 190
+    },
+    {
+      "cause": "Kraft",
+      "effect": "Magia",
+      "relation": "decreases",
+      "confidence": 0.952,
+      "direction_agreement": 0.024,
+      "pairs": 210
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Maschine",
+      "relation": "decreases",
+      "confidence": 0.948,
+      "direction_agreement": 0.026,
+      "pairs": 231
+    },
+    {
+      "cause": "Magia",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.943,
+      "direction_agreement": 0.029,
+      "pairs": 105
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Intelligenz",
+      "relation": "decreases",
+      "confidence": 0.942,
+      "direction_agreement": 0.029,
+      "pairs": 171
+    },
+    {
+      "cause": "Magia",
+      "effect": "Welle",
+      "relation": "decreases",
+      "confidence": 0.939,
+      "direction_agreement": 0.03,
+      "pairs": 231
+    },
+    {
+      "cause": "Kraft",
+      "effect": "Bewusstsein",
+      "relation": "decreases",
+      "confidence": 0.937,
+      "direction_agreement": 0.032,
+      "pairs": 253
+    },
+    {
+      "cause": "Magnet",
+      "effect": "Bewusstsein",
+      "relation": "decreases",
+      "confidence": 0.937,
+      "direction_agreement": 0.032,
+      "pairs": 190
+    },
+    {
+      "cause": "Feld",
+      "effect": "Algorithmus",
+      "relation": "decreases",
+      "confidence": 0.936,
+      "direction_agreement": 0.032,
+      "pairs": 435
+    },
+    {
+      "cause": "Feld",
+      "effect": "Entropie",
+      "relation": "decreases",
+      "confidence": 0.936,
+      "direction_agreement": 0.032,
+      "pairs": 435
+    },
+    {
+      "cause": "Feld",
+      "effect": "Kybernetik",
+      "relation": "decreases",
+      "confidence": 0.936,
+      "direction_agreement": 0.032,
+      "pairs": 435
+    },
+    {
+      "cause": "Feld",
+      "effect": "Rueckkopplung",
+      "relation": "decreases",
+      "confidence": 0.936,
+      "direction_agreement": 0.032,
+      "pairs": 435
+    },
+    {
+      "cause": "Feld",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 0.936,
+      "direction_agreement": 0.032,
+      "pairs": 435
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 0.934,
+      "direction_agreement": 0.033,
+      "pairs": 91
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.933,
+      "direction_agreement": 0.033,
+      "pairs": 120
+    },
+    {
+      "cause": "Intelligenz",
+      "effect": "Netzwerk",
+      "relation": "decreases",
+      "confidence": 0.933,
+      "direction_agreement": 0.033,
+      "pairs": 120
+    },
+    {
+      "cause": "Magia",
+      "effect": "Wahrheit",
+      "relation": "decreases",
+      "confidence": 0.932,
+      "direction_agreement": 0.034,
+      "pairs": 351
+    },
+    {
+      "cause": "Magia",
+      "effect": "Berechnung",
+      "relation": "decreases",
+      "confidence": 0.926,
+      "direction_agreement": 0.037,
+      "pairs": 190
+    },
+    {
+      "cause": "Magia",
+      "effect": "Zahl",
+      "relation": "decreases",
+      "confidence": 0.926,
+      "direction_agreement": 0.037,
+      "pairs": 378
+    },
+    {
+      "cause": "Magia",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 0.922,
+      "direction_agreement": 0.039,
+      "pairs": 153
+    },
+    {
+      "cause": "Welle",
+      "effect": "Intelligenz",
+      "relation": "decreases",
+      "confidence": 0.919,
+      "direction_agreement": 0.04,
+      "pairs": 595
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Intelligenz",
+      "relation": "decreases",
+      "confidence": 0.918,
+      "direction_agreement": 0.041,
+      "pairs": 171
+    },
+    {
+      "cause": "Algorithmus",
+      "effect": "Maschine",
+      "relation": "decreases",
+      "confidence": 0.916,
+      "direction_agreement": 0.042,
+      "pairs": 190
+    },
+    {
+      "cause": "Maschine",
+      "effect": "Entropie",
+      "relation": "decreases",
+      "confidence": 0.916,
+      "direction_agreement": 0.042,
+      "pairs": 190
+    },
+    {
+      "cause": "Maschine",
+      "effect": "Kybernetik",
+      "relation": "decreases",
+      "confidence": 0.916,
+      "direction_agreement": 0.042,
+      "pairs": 190
+    },
+    {
+      "cause": "Maschine",
+      "effect": "Rueckkopplung",
+      "relation": "decreases",
+      "confidence": 0.916,
+      "direction_agreement": 0.042,
+      "pairs": 190
+    },
+    {
+      "cause": "Maschine",
+      "effect": "Regelung",
+      "relation": "decreases",
+      "confidence": 0.916,
+      "direction_agreement": 0.042,
+      "pairs": 190
+    },
+    {
+      "cause": "Maschine",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 0.916,
+      "direction_agreement": 0.042,
+      "pairs": 190
+    },
+    {
+      "cause": "Maschine",
+      "effect": "Netzwerk",
+      "relation": "decreases",
+      "confidence": 0.914,
+      "direction_agreement": 0.043,
+      "pairs": 210
+    },
+    {
+      "cause": "Bewusstsein",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.911,
+      "direction_agreement": 0.044,
+      "pairs": 45
+    },
+    {
+      "cause": "Algorithmus",
+      "effect": "Zahl",
+      "relation": "decreases",
+      "confidence": 0.91,
+      "direction_agreement": 0.045,
+      "pairs": 378
+    },
+    {
+      "cause": "Entropie",
+      "effect": "Zahl",
+      "relation": "decreases",
+      "confidence": 0.91,
+      "direction_agreement": 0.045,
+      "pairs": 378
+    },
+    {
+      "cause": "Kybernetik",
+      "effect": "Zahl",
+      "relation": "decreases",
+      "confidence": 0.91,
+      "direction_agreement": 0.045,
+      "pairs": 378
+    },
+    {
+      "cause": "Rueckkopplung",
+      "effect": "Zahl",
+      "relation": "decreases",
+      "confidence": 0.91,
+      "direction_agreement": 0.045,
+      "pairs": 378
+    },
+    {
+      "cause": "Zahl",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 0.91,
+      "direction_agreement": 0.045,
+      "pairs": 378
+    },
+    {
+      "cause": "Magnet",
+      "effect": "Netzwerk",
+      "relation": "decreases",
+      "confidence": 0.906,
+      "direction_agreement": 0.047,
+      "pairs": 171
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.906,
+      "direction_agreement": 0.047,
+      "pairs": 171
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Energie",
+      "relation": "decreases",
+      "confidence": 0.906,
+      "direction_agreement": 0.047,
+      "pairs": 171
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.905,
+      "direction_agreement": 0.048,
+      "pairs": 21
+    },
+    {
+      "cause": "Magia",
+      "effect": "Maschine",
+      "relation": "decreases",
+      "confidence": 0.905,
+      "direction_agreement": 0.047,
+      "pairs": 190
+    },
+    {
+      "cause": "Regelung",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.905,
+      "direction_agreement": 0.048,
+      "pairs": 21
+    },
+    {
+      "cause": "Quanten",
+      "effect": "Information",
+      "relation": "decreases",
+      "confidence": 0.897,
+      "direction_agreement": 0.051,
+      "pairs": 253
+    },
+    {
+      "cause": "Algorithmus",
+      "effect": "Wesen",
+      "relation": "decreases",
+      "confidence": 0.896,
+      "direction_agreement": 0.052,
+      "pairs": 231
+    },
+    {
+      "cause": "Entropie",
+      "effect": "Wesen",
+      "relation": "decreases",
+      "confidence": 0.896,
+      "direction_agreement": 0.052,
+      "pairs": 231
+    },
+    {
+      "cause": "Kybernetik",
+      "effect": "Wesen",
+      "relation": "decreases",
+      "confidence": 0.896,
+      "direction_agreement": 0.052,
+      "pairs": 231
+    },
+    {
+      "cause": "Rueckkopplung",
+      "effect": "Wesen",
+      "relation": "decreases",
+      "confidence": 0.896,
+      "direction_agreement": 0.052,
+      "pairs": 231
+    },
+    {
+      "cause": "Synthesis",
+      "effect": "Wesen",
+      "relation": "decreases",
+      "confidence": 0.896,
+      "direction_agreement": 0.052,
+      "pairs": 231
+    },
+    {
+      "cause": "Electric",
+      "effect": "Teilchen",
+      "relation": "decreases",
+      "confidence": 0.895,
+      "direction_agreement": 0.052,
+      "pairs": 210
+    },
+    {
+      "cause": "Magia",
+      "effect": "System",
+      "relation": "decreases",
+      "confidence": 0.895,
+      "direction_agreement": 0.053,
+      "pairs": 190
+    },
+    {
+      "cause": "Algorithmus",
+      "effect": "Berechnung",
+      "relation": "decreases",
+      "confidence": 0.895,
+      "direction_agreement": 0.053,
+      "pairs": 190
+    },
+    {
+      "cause": "Entropie",
+      "effect": "Berechnung",
+      "relation": "decreases",
+      "confidence": 0.895,
+      "direction_agreement": 0.053,
+      "pairs": 190
+    },
+    {
+      "cause": "Kybernetik",
+      "effect": "Berechnung",
+      "relation": "decreases",
+      "confidence": 0.895,
+      "direction_agreement": 0.053,
+      "pairs": 190
+    },
+    {
+      "cause": "Rueckkopplung",
+      "effect": "Berechnung",
+      "relation": "decreases",
+      "confidence": 0.895,
+      "direction_agreement": 0.053,
+      "pairs": 190
+    },
+    {
+      "cause": "Regelung",
+      "effect": "Berechnung",
+      "relation": "decreases",
+      "confidence": 0.895,
+      "direction_agreement": 0.052,
+      "pairs": 210
+    },
+    {
+      "cause": "Berechnung",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 0.895,
+      "direction_agreement": 0.053,
+      "pairs": 190
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.891,
+      "direction_agreement": 0.055,
+      "pairs": 55
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Information",
+      "relation": "decreases",
+      "confidence": 0.89,
+      "direction_agreement": 0.055,
+      "pairs": 91
+    },
+    {
+      "cause": "Magia",
+      "effect": "Feld",
+      "relation": "decreases",
+      "confidence": 0.89,
+      "direction_agreement": 0.055,
+      "pairs": 435
+    },
+    {
+      "cause": "Magia",
+      "effect": "Wesen",
+      "relation": "decreases",
+      "confidence": 0.887,
+      "direction_agreement": 0.056,
+      "pairs": 231
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "Gehirn",
+      "relation": "decreases",
+      "confidence": 0.884,
+      "direction_agreement": 0.058,
+      "pairs": 190
+    },
+    {
+      "cause": "Regelung",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 0.883,
+      "direction_agreement": 0.058,
+      "pairs": 171
+    },
+    {
+      "cause": "Algorithmus",
+      "effect": "Methode",
+      "relation": "decreases",
+      "confidence": 0.882,
+      "direction_agreement": 0.059,
+      "pairs": 406
+    },
+    {
+      "cause": "Entropie",
+      "effect": "Methode",
+      "relation": "decreases",
+      "confidence": 0.882,
+      "direction_agreement": 0.059,
+      "pairs": 406
+    },
+    {
+      "cause": "Kybernetik",
+      "effect": "Methode",
+      "relation": "decreases",
+      "confidence": 0.882,
+      "direction_agreement": 0.059,
+      "pairs": 406
+    },
+    {
+      "cause": "Rueckkopplung",
+      "effect": "Methode",
+      "relation": "decreases",
+      "confidence": 0.882,
+      "direction_agreement": 0.059,
+      "pairs": 406
+    },
+    {
+      "cause": "Methode",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 0.882,
+      "direction_agreement": 0.059,
+      "pairs": 406
+    },
+    {
+      "cause": "Gehirn",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.877,
+      "direction_agreement": 0.062,
+      "pairs": 276
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "Wahrheit",
+      "relation": "decreases",
+      "confidence": 0.875,
+      "direction_agreement": 0.063,
+      "pairs": 351
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Intelligenz",
+      "relation": "decreases",
+      "confidence": 0.874,
+      "direction_agreement": 0.063,
+      "pairs": 190
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Logik",
+      "relation": "decreases",
+      "confidence": 0.874,
+      "direction_agreement": 0.063,
+      "pairs": 253
+    },
+    {
+      "cause": "Logik",
+      "effect": "Algorithmus",
+      "relation": "decreases",
+      "confidence": 0.874,
+      "direction_agreement": 0.063,
+      "pairs": 190
+    },
+    {
+      "cause": "Logik",
+      "effect": "Entropie",
+      "relation": "decreases",
+      "confidence": 0.874,
+      "direction_agreement": 0.063,
+      "pairs": 190
+    },
+    {
+      "cause": "Logik",
+      "effect": "Kybernetik",
+      "relation": "decreases",
+      "confidence": 0.874,
+      "direction_agreement": 0.063,
+      "pairs": 190
+    },
+    {
+      "cause": "Logik",
+      "effect": "Rueckkopplung",
+      "relation": "decreases",
+      "confidence": 0.874,
+      "direction_agreement": 0.063,
+      "pairs": 190
+    },
+    {
+      "cause": "Logik",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 0.874,
+      "direction_agreement": 0.063,
+      "pairs": 190
+    },
+    {
+      "cause": "Magnet",
+      "effect": "Intelligenz",
+      "relation": "decreases",
+      "confidence": 0.871,
+      "direction_agreement": 0.064,
+      "pairs": 435
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "Quanten",
+      "relation": "decreases",
+      "confidence": 0.869,
+      "direction_agreement": 0.065,
+      "pairs": 153
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "Energie",
+      "relation": "decreases",
+      "confidence": 0.869,
+      "direction_agreement": 0.065,
+      "pairs": 153
+    },
+    {
+      "cause": "Regelung",
+      "effect": "Zahl",
+      "relation": "decreases",
+      "confidence": 0.868,
+      "direction_agreement": 0.066,
+      "pairs": 378
+    },
+    {
+      "cause": "Aether",
+      "effect": "Intelligenz",
+      "relation": "decreases",
+      "confidence": 0.867,
+      "direction_agreement": 0.067,
+      "pairs": 406
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "Teilchen",
+      "relation": "decreases",
+      "confidence": 0.867,
+      "direction_agreement": 0.067,
+      "pairs": 15
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Information",
+      "relation": "decreases",
+      "confidence": 0.867,
+      "direction_agreement": 0.067,
+      "pairs": 120
+    },
+    {
+      "cause": "Quanten",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.867,
+      "direction_agreement": 0.067,
+      "pairs": 210
+    },
+    {
+      "cause": "Bewusstsein",
+      "effect": "Methode",
+      "relation": "decreases",
+      "confidence": 0.867,
+      "direction_agreement": 0.067,
+      "pairs": 406
+    },
+    {
+      "cause": "Intelligenz",
+      "effect": "Berechnung",
+      "relation": "decreases",
+      "confidence": 0.862,
+      "direction_agreement": 0.069,
+      "pairs": 465
+    },
+    {
+      "cause": "Intelligenz",
+      "effect": "Automat",
+      "relation": "decreases",
+      "confidence": 0.86,
+      "direction_agreement": 0.07,
+      "pairs": 300
+    },
+    {
+      "cause": "Electric",
+      "effect": "Quanten",
+      "relation": "decreases",
+      "confidence": 0.857,
+      "direction_agreement": 0.071,
+      "pairs": 406
+    },
+    {
+      "cause": "Bewusstsein",
+      "effect": "Zahl",
+      "relation": "decreases",
+      "confidence": 0.857,
+      "direction_agreement": 0.071,
+      "pairs": 378
+    },
+    {
+      "cause": "Netzwerk",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 0.853,
+      "direction_agreement": 0.074,
+      "pairs": 190
+    },
+    {
+      "cause": "Regelung",
+      "effect": "Wahrheit",
+      "relation": "decreases",
+      "confidence": 0.852,
+      "direction_agreement": 0.074,
+      "pairs": 351
+    },
+    {
+      "cause": "Electric",
+      "effect": "Resonanz",
+      "relation": "decreases",
+      "confidence": 0.848,
+      "direction_agreement": 0.076,
+      "pairs": 171
+    },
+    {
+      "cause": "Magia",
+      "effect": "Gehirn",
+      "relation": "decreases",
+      "confidence": 0.848,
+      "direction_agreement": 0.076,
+      "pairs": 171
+    },
+    {
+      "cause": "Energie",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.848,
+      "direction_agreement": 0.076,
+      "pairs": 210
+    },
+    {
+      "cause": "Welle",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.847,
+      "direction_agreement": 0.077,
+      "pairs": 300
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Quanten",
+      "relation": "decreases",
+      "confidence": 0.843,
+      "direction_agreement": 0.078,
+      "pairs": 153
+    },
+    {
+      "cause": "Aether",
+      "effect": "Sympathie",
+      "relation": "decreases",
+      "confidence": 0.842,
+      "direction_agreement": 0.079,
+      "pairs": 190
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.836,
+      "direction_agreement": 0.082,
+      "pairs": 171
+    },
+    {
+      "cause": "Feld",
+      "effect": "Regelung",
+      "relation": "decreases",
+      "confidence": 0.834,
+      "direction_agreement": 0.083,
+      "pairs": 435
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Maschine",
+      "relation": "decreases",
+      "confidence": 0.833,
+      "direction_agreement": 0.083,
+      "pairs": 300
+    },
+    {
+      "cause": "Quanten",
+      "effect": "Bewusstsein",
+      "relation": "decreases",
+      "confidence": 0.833,
+      "direction_agreement": 0.083,
+      "pairs": 120
+    },
+    {
+      "cause": "Netzwerk",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.833,
+      "direction_agreement": 0.083,
+      "pairs": 120
+    },
+    {
+      "cause": "Netzwerk",
+      "effect": "Berechnung",
+      "relation": "decreases",
+      "confidence": 0.832,
+      "direction_agreement": 0.084,
+      "pairs": 190
+    },
+    {
+      "cause": "Aether",
+      "effect": "Netzwerk",
+      "relation": "decreases",
+      "confidence": 0.83,
+      "direction_agreement": 0.085,
+      "pairs": 153
+    },
+    {
+      "cause": "Magnet",
+      "effect": "Magia",
+      "relation": "decreases",
+      "confidence": 0.83,
+      "direction_agreement": 0.085,
+      "pairs": 153
+    },
+    {
+      "cause": "Energie",
+      "effect": "Netzwerk",
+      "relation": "decreases",
+      "confidence": 0.83,
+      "direction_agreement": 0.085,
+      "pairs": 153
+    },
+    {
+      "cause": "Algorithmus",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.829,
+      "direction_agreement": 0.086,
+      "pairs": 105
+    },
+    {
+      "cause": "Entropie",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.829,
+      "direction_agreement": 0.086,
+      "pairs": 105
+    },
+    {
+      "cause": "Kybernetik",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.829,
+      "direction_agreement": 0.086,
+      "pairs": 105
+    },
+    {
+      "cause": "Rueckkopplung",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.829,
+      "direction_agreement": 0.086,
+      "pairs": 105
+    },
+    {
+      "cause": "Synthesis",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.829,
+      "direction_agreement": 0.086,
+      "pairs": 105
+    },
+    {
+      "cause": "Denken",
+      "effect": "Regelung",
+      "relation": "decreases",
+      "confidence": 0.828,
+      "direction_agreement": 0.086,
+      "pairs": 325
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Information",
+      "relation": "decreases",
+      "confidence": 0.822,
+      "direction_agreement": 0.089,
+      "pairs": 45
+    },
+    {
+      "cause": "Magia",
+      "effect": "Automat",
+      "relation": "decreases",
+      "confidence": 0.821,
+      "direction_agreement": 0.09,
+      "pairs": 78
+    },
+    {
+      "cause": "Feld",
+      "effect": "Bewusstsein",
+      "relation": "decreases",
+      "confidence": 0.821,
+      "direction_agreement": 0.09,
+      "pairs": 435
+    },
+    {
+      "cause": "Signal",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.821,
+      "direction_agreement": 0.09,
+      "pairs": 78
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "Logik",
+      "relation": "decreases",
+      "confidence": 0.819,
+      "direction_agreement": 0.09,
+      "pairs": 210
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Teilchen",
+      "relation": "decreases",
+      "confidence": 0.818,
+      "direction_agreement": 0.091,
+      "pairs": 55
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Welle",
+      "relation": "decreases",
+      "confidence": 0.818,
+      "direction_agreement": 0.091,
+      "pairs": 231
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.818,
+      "direction_agreement": 0.091,
+      "pairs": 66
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.818,
+      "direction_agreement": 0.091,
+      "pairs": 55
+    },
+    {
+      "cause": "Information",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.818,
+      "direction_agreement": 0.091,
+      "pairs": 66
+    },
+    {
+      "cause": "Electric",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.81,
+      "direction_agreement": 0.095,
+      "pairs": 253
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Bewusstsein",
+      "relation": "decreases",
+      "confidence": 0.81,
+      "direction_agreement": 0.095,
+      "pairs": 21
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Netzwerk",
+      "relation": "decreases",
+      "confidence": 0.81,
+      "direction_agreement": 0.095,
+      "pairs": 21
+    },
+    {
+      "cause": "Maschine",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.81,
+      "direction_agreement": 0.095,
+      "pairs": 253
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "Denken",
+      "relation": "decreases",
+      "confidence": 0.809,
+      "direction_agreement": 0.095,
+      "pairs": 325
+    },
+    {
+      "cause": "Quanten",
+      "effect": "Netzwerk",
+      "relation": "decreases",
+      "confidence": 0.809,
+      "direction_agreement": 0.096,
+      "pairs": 136
+    },
+    {
+      "cause": "Quanten",
+      "effect": "Maschine",
+      "relation": "decreases",
+      "confidence": 0.806,
+      "direction_agreement": 0.097,
+      "pairs": 465
+    },
+    {
+      "cause": "Algorithmus",
+      "effect": "System",
+      "relation": "decreases",
+      "confidence": 0.8,
+      "direction_agreement": 0.1,
+      "pairs": 190
+    },
+    {
+      "cause": "Entropie",
+      "effect": "System",
+      "relation": "decreases",
+      "confidence": 0.8,
+      "direction_agreement": 0.1,
+      "pairs": 190
+    },
+    {
+      "cause": "System",
+      "effect": "Kybernetik",
+      "relation": "decreases",
+      "confidence": 0.8,
+      "direction_agreement": 0.1,
+      "pairs": 190
+    },
+    {
+      "cause": "System",
+      "effect": "Rueckkopplung",
+      "relation": "decreases",
+      "confidence": 0.8,
+      "direction_agreement": 0.1,
+      "pairs": 190
+    },
+    {
+      "cause": "System",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 0.8,
+      "direction_agreement": 0.1,
+      "pairs": 190
+    },
+    {
+      "cause": "Welle",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.799,
+      "direction_agreement": 0.101,
+      "pairs": 378
+    },
+    {
+      "cause": "Kraft",
+      "effect": "Intelligenz",
+      "relation": "decreases",
+      "confidence": 0.798,
+      "direction_agreement": 0.101,
+      "pairs": 496
+    },
+    {
+      "cause": "Neuron",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.798,
+      "direction_agreement": 0.101,
+      "pairs": 435
+    },
+    {
+      "cause": "Signal",
+      "effect": "Wahrheit",
+      "relation": "decreases",
+      "confidence": 0.798,
+      "direction_agreement": 0.101,
+      "pairs": 435
+    },
+    {
+      "cause": "Aether",
+      "effect": "Magia",
+      "relation": "decreases",
+      "confidence": 0.794,
+      "direction_agreement": 0.103,
+      "pairs": 136
+    },
+    {
+      "cause": "Berechnung",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.794,
+      "direction_agreement": 0.103,
+      "pairs": 253
+    },
+    {
+      "cause": "Electric",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.79,
+      "direction_agreement": 0.105,
+      "pairs": 210
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Energie",
+      "relation": "decreases",
+      "confidence": 0.79,
+      "direction_agreement": 0.105,
+      "pairs": 210
+    },
+    {
+      "cause": "Energie",
+      "effect": "Information",
+      "relation": "decreases",
+      "confidence": 0.79,
+      "direction_agreement": 0.105,
+      "pairs": 210
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "Neuron",
+      "relation": "decreases",
+      "confidence": 0.789,
+      "direction_agreement": 0.105,
+      "pairs": 351
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 0.789,
+      "direction_agreement": 0.105,
+      "pairs": 171
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Naturlehre",
+      "relation": "decreases",
+      "confidence": 0.788,
+      "direction_agreement": 0.106,
+      "pairs": 66
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Teilchen",
+      "relation": "decreases",
+      "confidence": 0.788,
+      "direction_agreement": 0.106,
+      "pairs": 66
+    },
+    {
+      "cause": "Gehirn",
+      "effect": "Information",
+      "relation": "decreases",
+      "confidence": 0.787,
+      "direction_agreement": 0.107,
+      "pairs": 253
+    },
+    {
+      "cause": "Magia",
+      "effect": "Information",
+      "relation": "decreases",
+      "confidence": 0.786,
+      "direction_agreement": 0.107,
+      "pairs": 28
+    },
+    {
+      "cause": "Bewusstsein",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.786,
+      "direction_agreement": 0.107,
+      "pairs": 28
+    },
+    {
+      "cause": "Intelligenz",
+      "effect": "Regelung",
+      "relation": "decreases",
+      "confidence": 0.783,
+      "direction_agreement": 0.108,
+      "pairs": 120
+    },
+    {
+      "cause": "Neuron",
+      "effect": "Netzwerk",
+      "relation": "decreases",
+      "confidence": 0.783,
+      "direction_agreement": 0.108,
+      "pairs": 351
+    },
+    {
+      "cause": "Netzwerk",
+      "effect": "Wahrheit",
+      "relation": "decreases",
+      "confidence": 0.783,
+      "direction_agreement": 0.108,
+      "pairs": 351
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Methode",
+      "relation": "decreases",
+      "confidence": 0.779,
+      "direction_agreement": 0.11,
+      "pairs": 435
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.779,
+      "direction_agreement": 0.111,
+      "pairs": 190
+    },
+    {
+      "cause": "Logik",
+      "effect": "Information",
+      "relation": "decreases",
+      "confidence": 0.779,
+      "direction_agreement": 0.111,
+      "pairs": 253
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.778,
+      "direction_agreement": 0.111,
+      "pairs": 45
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Neuron",
+      "relation": "decreases",
+      "confidence": 0.778,
+      "direction_agreement": 0.111,
+      "pairs": 351
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.778,
+      "direction_agreement": 0.111,
+      "pairs": 36
+    },
+    {
+      "cause": "Bewusstsein",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 0.778,
+      "direction_agreement": 0.111,
+      "pairs": 153
+    },
+    {
+      "cause": "Kraft",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.773,
+      "direction_agreement": 0.113,
+      "pairs": 300
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Zahl",
+      "relation": "decreases",
+      "confidence": 0.772,
+      "direction_agreement": 0.114,
+      "pairs": 378
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Maschine",
+      "relation": "decreases",
+      "confidence": 0.772,
+      "direction_agreement": 0.114,
+      "pairs": 325
+    },
+    {
+      "cause": "Information",
+      "effect": "Wahrheit",
+      "relation": "decreases",
+      "confidence": 0.772,
+      "direction_agreement": 0.114,
+      "pairs": 378
+    },
+    {
+      "cause": "Aether",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.771,
+      "direction_agreement": 0.114,
+      "pairs": 210
+    },
+    {
+      "cause": "Energie",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.771,
+      "direction_agreement": 0.114,
+      "pairs": 210
+    },
+    {
+      "cause": "Magnet",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.768,
+      "direction_agreement": 0.116,
+      "pairs": 276
+    },
+    {
+      "cause": "Regelung",
+      "effect": "Methode",
+      "relation": "decreases",
+      "confidence": 0.768,
+      "direction_agreement": 0.116,
+      "pairs": 406
+    },
+    {
+      "cause": "Aether",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.763,
+      "direction_agreement": 0.119,
+      "pairs": 253
+    },
+    {
+      "cause": "Netzwerk",
+      "effect": "Wesen",
+      "relation": "decreases",
+      "confidence": 0.763,
+      "direction_agreement": 0.119,
+      "pairs": 253
+    },
+    {
+      "cause": "Electric",
+      "effect": "Sympathie",
+      "relation": "decreases",
+      "confidence": 0.754,
+      "direction_agreement": 0.123,
+      "pairs": 171
+    },
+    {
+      "cause": "Gehirn",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 0.754,
+      "direction_agreement": 0.123,
+      "pairs": 276
+    },
+    {
+      "cause": "Kraft",
+      "effect": "Netzwerk",
+      "relation": "decreases",
+      "confidence": 0.752,
+      "direction_agreement": 0.124,
+      "pairs": 210
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 0.752,
+      "direction_agreement": 0.124,
+      "pairs": 105
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Quanten",
+      "relation": "decreases",
+      "confidence": 0.752,
+      "direction_agreement": 0.124,
+      "pairs": 210
+    },
+    {
+      "cause": "Netzwerk",
+      "effect": "Zahl",
+      "relation": "decreases",
+      "confidence": 0.751,
+      "direction_agreement": 0.124,
+      "pairs": 378
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 0.75,
+      "direction_agreement": 0.125,
+      "pairs": 136
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Denken",
+      "relation": "decreases",
+      "confidence": 0.749,
+      "direction_agreement": 0.125,
+      "pairs": 351
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Berechnung",
+      "relation": "decreases",
+      "confidence": 0.746,
+      "direction_agreement": 0.127,
+      "pairs": 276
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 0.744,
+      "direction_agreement": 0.128,
+      "pairs": 78
+    },
+    {
+      "cause": "Signal",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.744,
+      "direction_agreement": 0.128,
+      "pairs": 78
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Maschine",
+      "relation": "decreases",
+      "confidence": 0.74,
+      "direction_agreement": 0.13,
+      "pairs": 231
+    },
+    {
+      "cause": "Quanten",
+      "effect": "Teilchen",
+      "relation": "decreases",
+      "confidence": 0.739,
+      "direction_agreement": 0.131,
+      "pairs": 153
+    },
+    {
+      "cause": "Quanten",
+      "effect": "Automat",
+      "relation": "decreases",
+      "confidence": 0.739,
+      "direction_agreement": 0.13,
+      "pairs": 276
+    },
+    {
+      "cause": "Denken",
+      "effect": "Netzwerk",
+      "relation": "decreases",
+      "confidence": 0.735,
+      "direction_agreement": 0.132,
+      "pairs": 325
+    },
+    {
+      "cause": "Regelung",
+      "effect": "Wesen",
+      "relation": "decreases",
+      "confidence": 0.732,
+      "direction_agreement": 0.134,
+      "pairs": 231
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Automat",
+      "relation": "decreases",
+      "confidence": 0.731,
+      "direction_agreement": 0.135,
+      "pairs": 171
+    },
+    {
+      "cause": "Gehirn",
+      "effect": "Netzwerk",
+      "relation": "decreases",
+      "confidence": 0.731,
+      "direction_agreement": 0.135,
+      "pairs": 171
+    },
+    {
+      "cause": "Aether",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.726,
+      "direction_agreement": 0.137,
+      "pairs": 190
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Gehirn",
+      "relation": "decreases",
+      "confidence": 0.726,
+      "direction_agreement": 0.137,
+      "pairs": 190
+    },
+    {
+      "cause": "Feld",
+      "effect": "Netzwerk",
+      "relation": "decreases",
+      "confidence": 0.724,
+      "direction_agreement": 0.138,
+      "pairs": 435
+    },
+    {
+      "cause": "Kraft",
+      "effect": "Teilchen",
+      "relation": "decreases",
+      "confidence": 0.723,
+      "direction_agreement": 0.139,
+      "pairs": 231
+    },
+    {
+      "cause": "Electric",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.721,
+      "direction_agreement": 0.14,
+      "pairs": 351
+    },
+    {
+      "cause": "Neuron",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.72,
+      "direction_agreement": 0.14,
+      "pairs": 378
+    },
+    {
+      "cause": "Quanten",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.719,
+      "direction_agreement": 0.14,
+      "pairs": 171
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.718,
+      "direction_agreement": 0.141,
+      "pairs": 78
+    },
+    {
+      "cause": "Feld",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.718,
+      "direction_agreement": 0.141,
+      "pairs": 561
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "System",
+      "relation": "decreases",
+      "confidence": 0.717,
+      "direction_agreement": 0.141,
+      "pairs": 276
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "Welle",
+      "relation": "decreases",
+      "confidence": 0.715,
+      "direction_agreement": 0.142,
+      "pairs": 253
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 0.715,
+      "direction_agreement": 0.142,
+      "pairs": 253
+    },
+    {
+      "cause": "Neuron",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.715,
+      "direction_agreement": 0.142,
+      "pairs": 351
+    },
+    {
+      "cause": "Electric",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.714,
+      "direction_agreement": 0.143,
+      "pairs": 231
+    },
+    {
+      "cause": "Automat",
+      "effect": "Regelung",
+      "relation": "decreases",
+      "confidence": 0.714,
+      "direction_agreement": 0.143,
+      "pairs": 91
+    },
+    {
+      "cause": "Netzwerk",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.714,
+      "direction_agreement": 0.143,
+      "pairs": 21
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "Feld",
+      "relation": "decreases",
+      "confidence": 0.71,
+      "direction_agreement": 0.145,
+      "pairs": 435
+    },
+    {
+      "cause": "Energie",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.708,
+      "direction_agreement": 0.146,
+      "pairs": 171
+    },
+    {
+      "cause": "Kraft",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.706,
+      "direction_agreement": 0.147,
+      "pairs": 231
+    },
+    {
+      "cause": "Kraft",
+      "effect": "Resonanz",
+      "relation": "decreases",
+      "confidence": 0.705,
+      "direction_agreement": 0.148,
+      "pairs": 210
+    },
+    {
+      "cause": "Magnet",
+      "effect": "Sympathie",
+      "relation": "decreases",
+      "confidence": 0.705,
+      "direction_agreement": 0.147,
+      "pairs": 190
+    },
+    {
+      "cause": "Logik",
+      "effect": "Netzwerk",
+      "relation": "decreases",
+      "confidence": 0.705,
+      "direction_agreement": 0.147,
+      "pairs": 190
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Wesen",
+      "relation": "decreases",
+      "confidence": 0.704,
+      "direction_agreement": 0.148,
+      "pairs": 378
+    },
+    {
+      "cause": "Denken",
+      "effect": "Information",
+      "relation": "decreases",
+      "confidence": 0.704,
+      "direction_agreement": 0.148,
+      "pairs": 351
+    },
+    {
+      "cause": "Denken",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.704,
+      "direction_agreement": 0.148,
+      "pairs": 406
+    },
+    {
+      "cause": "Netzwerk",
+      "effect": "Methode",
+      "relation": "decreases",
+      "confidence": 0.704,
+      "direction_agreement": 0.148,
+      "pairs": 406
+    },
+    {
+      "cause": "Logik",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.703,
+      "direction_agreement": 0.149,
+      "pairs": 276
+    },
+    {
+      "cause": "Electric",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 0.7,
+      "direction_agreement": 0.15,
+      "pairs": 253
+    },
+    {
+      "cause": "Welle",
+      "effect": "Teilchen",
+      "relation": "decreases",
+      "confidence": 0.7,
+      "direction_agreement": 0.15,
+      "pairs": 253
+    },
+    {
+      "cause": "Welle",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.698,
+      "direction_agreement": 0.151,
+      "pairs": 325
+    },
+    {
+      "cause": "Electric",
+      "effect": "Naturlehre",
+      "relation": "decreases",
+      "confidence": 0.697,
+      "direction_agreement": 0.152,
+      "pairs": 231
+    },
+    {
+      "cause": "Intelligenz",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 0.697,
+      "direction_agreement": 0.152,
+      "pairs": 231
+    },
+    {
+      "cause": "Intelligenz",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.696,
+      "direction_agreement": 0.152,
+      "pairs": 171
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Quanten",
+      "relation": "decreases",
+      "confidence": 0.695,
+      "direction_agreement": 0.153,
+      "pairs": 190
+    },
+    {
+      "cause": "Energie",
+      "effect": "Maschine",
+      "relation": "decreases",
+      "confidence": 0.695,
+      "direction_agreement": 0.153,
+      "pairs": 406
+    },
+    {
+      "cause": "Intelligenz",
+      "effect": "Gehirn",
+      "relation": "decreases",
+      "confidence": 0.695,
+      "direction_agreement": 0.153,
+      "pairs": 406
+    },
+    {
+      "cause": "Gehirn",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.695,
+      "direction_agreement": 0.152,
+      "pairs": 210
+    },
+    {
+      "cause": "Signal",
+      "effect": "Zahl",
+      "relation": "decreases",
+      "confidence": 0.695,
+      "direction_agreement": 0.153,
+      "pairs": 465
+    },
+    {
+      "cause": "Zahl",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.695,
+      "direction_agreement": 0.153,
+      "pairs": 406
+    },
+    {
+      "cause": "Aether",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 0.692,
+      "direction_agreement": 0.154,
+      "pairs": 253
+    },
+    {
+      "cause": "Neuron",
+      "effect": "Information",
+      "relation": "decreases",
+      "confidence": 0.692,
+      "direction_agreement": 0.154,
+      "pairs": 351
+    },
+    {
+      "cause": "Algorithmus",
+      "effect": "Automat",
+      "relation": "decreases",
+      "confidence": 0.692,
+      "direction_agreement": 0.154,
+      "pairs": 78
+    },
+    {
+      "cause": "Automat",
+      "effect": "Entropie",
+      "relation": "decreases",
+      "confidence": 0.692,
+      "direction_agreement": 0.154,
+      "pairs": 78
+    },
+    {
+      "cause": "Automat",
+      "effect": "Kybernetik",
+      "relation": "decreases",
+      "confidence": 0.692,
+      "direction_agreement": 0.154,
+      "pairs": 78
+    },
+    {
+      "cause": "Automat",
+      "effect": "Rueckkopplung",
+      "relation": "decreases",
+      "confidence": 0.692,
+      "direction_agreement": 0.154,
+      "pairs": 78
+    },
+    {
+      "cause": "Automat",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 0.692,
+      "direction_agreement": 0.154,
+      "pairs": 78
+    },
+    {
+      "cause": "Steuerung",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.692,
+      "direction_agreement": 0.154,
+      "pairs": 78
+    },
+    {
+      "cause": "Gehirn",
+      "effect": "Maschine",
+      "relation": "decreases",
+      "confidence": 0.69,
+      "direction_agreement": 0.155,
+      "pairs": 496
+    },
+    {
+      "cause": "Electric",
+      "effect": "Intelligenz",
+      "relation": "decreases",
+      "confidence": 0.688,
+      "direction_agreement": 0.156,
+      "pairs": 378
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Zahl",
+      "relation": "decreases",
+      "confidence": 0.688,
+      "direction_agreement": 0.156,
+      "pairs": 378
+    },
+    {
+      "cause": "Signal",
+      "effect": "Berechnung",
+      "relation": "decreases",
+      "confidence": 0.687,
+      "direction_agreement": 0.157,
+      "pairs": 300
+    },
+    {
+      "cause": "Intelligenz",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.684,
+      "direction_agreement": 0.158,
+      "pairs": 190
+    },
+    {
+      "cause": "Logik",
+      "effect": "Regelung",
+      "relation": "decreases",
+      "confidence": 0.684,
+      "direction_agreement": 0.158,
+      "pairs": 190
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "Zahl",
+      "relation": "decreases",
+      "confidence": 0.683,
+      "direction_agreement": 0.159,
+      "pairs": 378
+    },
+    {
+      "cause": "Logik",
+      "effect": "Berechnung",
+      "relation": "decreases",
+      "confidence": 0.681,
+      "direction_agreement": 0.159,
+      "pairs": 496
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Berechnung",
+      "relation": "decreases",
+      "confidence": 0.68,
+      "direction_agreement": 0.16,
+      "pairs": 231
+    },
+    {
+      "cause": "Quanten",
+      "effect": "Welle",
+      "relation": "decreases",
+      "confidence": 0.677,
+      "direction_agreement": 0.161,
+      "pairs": 465
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.676,
+      "direction_agreement": 0.162,
+      "pairs": 105
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Automat",
+      "relation": "decreases",
+      "confidence": 0.676,
+      "direction_agreement": 0.162,
+      "pairs": 105
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Automat",
+      "relation": "decreases",
+      "confidence": 0.676,
+      "direction_agreement": 0.162,
+      "pairs": 105
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Wahrheit",
+      "relation": "decreases",
+      "confidence": 0.675,
+      "direction_agreement": 0.162,
+      "pairs": 351
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "Maschine",
+      "relation": "decreases",
+      "confidence": 0.674,
+      "direction_agreement": 0.163,
+      "pairs": 190
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Feld",
+      "relation": "decreases",
+      "confidence": 0.674,
+      "direction_agreement": 0.163,
+      "pairs": 435
+    },
+    {
+      "cause": "Bewusstsein",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 0.673,
+      "direction_agreement": 0.164,
+      "pairs": 55
+    },
+    {
+      "cause": "Aether",
+      "effect": "Logik",
+      "relation": "decreases",
+      "confidence": 0.67,
+      "direction_agreement": 0.165,
+      "pairs": 406
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Methode",
+      "relation": "decreases",
+      "confidence": 0.67,
+      "direction_agreement": 0.165,
+      "pairs": 406
+    },
+    {
+      "cause": "Kraft",
+      "effect": "Information",
+      "relation": "decreases",
+      "confidence": 0.668,
+      "direction_agreement": 0.166,
+      "pairs": 253
+    },
+    {
+      "cause": "Aether",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.667,
+      "direction_agreement": 0.167,
+      "pairs": 300
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.667,
+      "direction_agreement": 0.167,
+      "pairs": 120
+    },
+    {
+      "cause": "Energie",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 0.667,
+      "direction_agreement": 0.167,
+      "pairs": 210
+    },
+    {
+      "cause": "Netzwerk",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 0.667,
+      "direction_agreement": 0.167,
+      "pairs": 66
+    },
+    {
+      "cause": "Netzwerk",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.667,
+      "direction_agreement": 0.167,
+      "pairs": 36
+    },
+    {
+      "cause": "Gehirn",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.663,
+      "direction_agreement": 0.168,
+      "pairs": 190
+    },
+    {
+      "cause": "Electric",
+      "effect": "Information",
+      "relation": "decreases",
+      "confidence": 0.657,
+      "direction_agreement": 0.171,
+      "pairs": 210
+    },
+    {
+      "cause": "Aether",
+      "effect": "Maschine",
+      "relation": "decreases",
+      "confidence": 0.652,
+      "direction_agreement": 0.174,
+      "pairs": 465
+    },
+    {
+      "cause": "Neuron",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 0.651,
+      "direction_agreement": 0.175,
+      "pairs": 435
+    },
+    {
+      "cause": "Electric",
+      "effect": "System",
+      "relation": "decreases",
+      "confidence": 0.65,
+      "direction_agreement": 0.175,
+      "pairs": 406
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.644,
+      "direction_agreement": 0.178,
+      "pairs": 45
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Wesen",
+      "relation": "decreases",
+      "confidence": 0.644,
+      "direction_agreement": 0.178,
+      "pairs": 253
+    },
+    {
+      "cause": "Information",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.641,
+      "direction_agreement": 0.179,
+      "pairs": 78
+    },
+    {
+      "cause": "Quanten",
+      "effect": "Energie",
+      "relation": "decreases",
+      "confidence": 0.64,
+      "direction_agreement": 0.18,
+      "pairs": 300
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 0.637,
+      "direction_agreement": 0.181,
+      "pairs": 171
+    },
+    {
+      "cause": "Logik",
+      "effect": "Maschine",
+      "relation": "decreases",
+      "confidence": 0.637,
+      "direction_agreement": 0.182,
+      "pairs": 435
+    },
+    {
+      "cause": "Methode",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.637,
+      "direction_agreement": 0.182,
+      "pairs": 435
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "Naturlehre",
+      "relation": "decreases",
+      "confidence": 0.636,
+      "direction_agreement": 0.182,
+      "pairs": 55
+    },
+    {
+      "cause": "Maschine",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.636,
+      "direction_agreement": 0.182,
+      "pairs": 253
+    },
+    {
+      "cause": "Bewusstsein",
+      "effect": "Wahrheit",
+      "relation": "decreases",
+      "confidence": 0.635,
+      "direction_agreement": 0.182,
+      "pairs": 351
+    },
+    {
+      "cause": "Aether",
+      "effect": "Resonanz",
+      "relation": "decreases",
+      "confidence": 0.634,
+      "direction_agreement": 0.183,
+      "pairs": 153
+    },
+    {
+      "cause": "Intelligenz",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.634,
+      "direction_agreement": 0.183,
+      "pairs": 153
+    },
+    {
+      "cause": "Magnet",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.632,
+      "direction_agreement": 0.184,
+      "pairs": 190
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "Methode",
+      "relation": "decreases",
+      "confidence": 0.631,
+      "direction_agreement": 0.185,
+      "pairs": 406
+    },
+    {
+      "cause": "Bewusstsein",
+      "effect": "Denken",
+      "relation": "decreases",
+      "confidence": 0.631,
+      "direction_agreement": 0.185,
+      "pairs": 325
+    },
+    {
+      "cause": "Kraft",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.63,
+      "direction_agreement": 0.185,
+      "pairs": 351
+    },
+    {
+      "cause": "System",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.63,
+      "direction_agreement": 0.185,
+      "pairs": 276
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "System",
+      "relation": "decreases",
+      "confidence": 0.629,
+      "direction_agreement": 0.186,
+      "pairs": 210
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.626,
+      "direction_agreement": 0.187,
+      "pairs": 91
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Welle",
+      "relation": "decreases",
+      "confidence": 0.621,
+      "direction_agreement": 0.19,
+      "pairs": 253
+    },
+    {
+      "cause": "Intelligenz",
+      "effect": "Neuron",
+      "relation": "decreases",
+      "confidence": 0.621,
+      "direction_agreement": 0.19,
+      "pairs": 496
+    },
+    {
+      "cause": "System",
+      "effect": "Regelung",
+      "relation": "decreases",
+      "confidence": 0.621,
+      "direction_agreement": 0.189,
+      "pairs": 190
+    },
+    {
+      "cause": "Algorithmus",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.619,
+      "direction_agreement": 0.19,
+      "pairs": 21
+    },
+    {
+      "cause": "Entropie",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.619,
+      "direction_agreement": 0.19,
+      "pairs": 21
+    },
+    {
+      "cause": "Kybernetik",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.619,
+      "direction_agreement": 0.19,
+      "pairs": 21
+    },
+    {
+      "cause": "Rueckkopplung",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.619,
+      "direction_agreement": 0.19,
+      "pairs": 21
+    },
+    {
+      "cause": "Regelung",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.619,
+      "direction_agreement": 0.19,
+      "pairs": 21
+    },
+    {
+      "cause": "Analysis",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 0.619,
+      "direction_agreement": 0.19,
+      "pairs": 21
+    },
+    {
+      "cause": "Welle",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.618,
+      "direction_agreement": 0.191,
+      "pairs": 435
+    },
+    {
+      "cause": "Magnet",
+      "effect": "Maschine",
+      "relation": "decreases",
+      "confidence": 0.617,
+      "direction_agreement": 0.191,
+      "pairs": 465
+    },
+    {
+      "cause": "Magnet",
+      "effect": "Resonanz",
+      "relation": "decreases",
+      "confidence": 0.614,
+      "direction_agreement": 0.193,
+      "pairs": 171
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Feld",
+      "relation": "decreases",
+      "confidence": 0.614,
+      "direction_agreement": 0.193,
+      "pairs": 435
+    },
+    {
+      "cause": "Signal",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.614,
+      "direction_agreement": 0.193,
+      "pairs": 171
+    },
+    {
+      "cause": "Kausalitaet",
+      "effect": "Wahrheit",
+      "relation": "decreases",
+      "confidence": 0.614,
+      "direction_agreement": 0.193,
+      "pairs": 378
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Wesen",
+      "relation": "decreases",
+      "confidence": 0.613,
+      "direction_agreement": 0.193,
+      "pairs": 300
+    },
+    {
+      "cause": "Energie",
+      "effect": "Intelligenz",
+      "relation": "decreases",
+      "confidence": 0.613,
+      "direction_agreement": 0.193,
+      "pairs": 300
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Resonanz",
+      "relation": "decreases",
+      "confidence": 0.611,
+      "direction_agreement": 0.194,
+      "pairs": 36
+    },
+    {
+      "cause": "Bewusstsein",
+      "effect": "System",
+      "relation": "decreases",
+      "confidence": 0.611,
+      "direction_agreement": 0.195,
+      "pairs": 190
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 0.61,
+      "direction_agreement": 0.195,
+      "pairs": 210
+    },
+    {
+      "cause": "Quanten",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 0.61,
+      "direction_agreement": 0.195,
+      "pairs": 210
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.606,
+      "direction_agreement": 0.197,
+      "pairs": 66
+    },
+    {
+      "cause": "Electric",
+      "effect": "Logik",
+      "relation": "decreases",
+      "confidence": 0.601,
+      "direction_agreement": 0.2,
+      "pairs": 406
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "Netzwerk",
+      "relation": "decreases",
+      "confidence": 0.6,
+      "direction_agreement": 0.2,
+      "pairs": 10
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "System",
+      "relation": "decreases",
+      "confidence": 0.6,
+      "direction_agreement": 0.2,
+      "pairs": 210
+    },
+    {
+      "cause": "Algorithmus",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 0.6,
+      "direction_agreement": 0.2,
+      "pairs": 45
+    },
+    {
+      "cause": "Information",
+      "effect": "Netzwerk",
+      "relation": "decreases",
+      "confidence": 0.6,
+      "direction_agreement": 0.2,
+      "pairs": 45
+    },
+    {
+      "cause": "Entropie",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 0.6,
+      "direction_agreement": 0.2,
+      "pairs": 45
+    },
+    {
+      "cause": "Kybernetik",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 0.6,
+      "direction_agreement": 0.2,
+      "pairs": 45
+    },
+    {
+      "cause": "Rueckkopplung",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 0.6,
+      "direction_agreement": 0.2,
+      "pairs": 45
+    },
+    {
+      "cause": "Netzwerk",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.6,
+      "direction_agreement": 0.2,
+      "pairs": 45
+    },
+    {
+      "cause": "Regelung",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.6,
+      "direction_agreement": 0.2,
+      "pairs": 105
+    },
+    {
+      "cause": "Steuerung",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 0.6,
+      "direction_agreement": 0.2,
+      "pairs": 45
+    },
+    {
+      "cause": "Intelligenz",
+      "effect": "Methode",
+      "relation": "decreases",
+      "confidence": 0.598,
+      "direction_agreement": 0.201,
+      "pairs": 666
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Berechnung",
+      "relation": "decreases",
+      "confidence": 0.594,
+      "direction_agreement": 0.203,
+      "pairs": 276
+    },
+    {
+      "cause": "Bewusstsein",
+      "effect": "Wesen",
+      "relation": "decreases",
+      "confidence": 0.593,
+      "direction_agreement": 0.203,
+      "pairs": 231
+    },
+    {
+      "cause": "Signal",
+      "effect": "Methode",
+      "relation": "decreases",
+      "confidence": 0.593,
+      "direction_agreement": 0.204,
+      "pairs": 496
+    },
+    {
+      "cause": "Neuron",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.586,
+      "direction_agreement": 0.207,
+      "pairs": 406
+    },
+    {
+      "cause": "Denken",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.584,
+      "direction_agreement": 0.208,
+      "pairs": 351
+    },
+    {
+      "cause": "Electric",
+      "effect": "Wahrheit",
+      "relation": "decreases",
+      "confidence": 0.583,
+      "direction_agreement": 0.209,
+      "pairs": 561
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Automat",
+      "relation": "decreases",
+      "confidence": 0.583,
+      "direction_agreement": 0.208,
+      "pairs": 120
+    },
+    {
+      "cause": "Intelligenz",
+      "effect": "Bewusstsein",
+      "relation": "decreases",
+      "confidence": 0.583,
+      "direction_agreement": 0.208,
+      "pairs": 120
+    },
+    {
+      "cause": "Automat",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.583,
+      "direction_agreement": 0.208,
+      "pairs": 120
+    },
+    {
+      "cause": "Logik",
+      "effect": "Automat",
+      "relation": "decreases",
+      "confidence": 0.582,
+      "direction_agreement": 0.209,
+      "pairs": 325
+    },
+    {
+      "cause": "Aether",
+      "effect": "Information",
+      "relation": "decreases",
+      "confidence": 0.581,
+      "direction_agreement": 0.21,
+      "pairs": 210
+    },
+    {
+      "cause": "Intelligenz",
+      "effect": "Zahl",
+      "relation": "decreases",
+      "confidence": 0.581,
+      "direction_agreement": 0.21,
+      "pairs": 630
+    },
+    {
+      "cause": "Aether",
+      "effect": "Wesen",
+      "relation": "decreases",
+      "confidence": 0.58,
+      "direction_agreement": 0.21,
+      "pairs": 528
+    },
+    {
+      "cause": "Quanten",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 0.58,
+      "direction_agreement": 0.21,
+      "pairs": 276
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "System",
+      "relation": "decreases",
+      "confidence": 0.579,
+      "direction_agreement": 0.211,
+      "pairs": 190
+    },
+    {
+      "cause": "Bewusstsein",
+      "effect": "Logik",
+      "relation": "decreases",
+      "confidence": 0.579,
+      "direction_agreement": 0.211,
+      "pairs": 190
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "Wesen",
+      "relation": "decreases",
+      "confidence": 0.576,
+      "direction_agreement": 0.212,
+      "pairs": 231
+    },
+    {
+      "cause": "Quanten",
+      "effect": "Neuron",
+      "relation": "decreases",
+      "confidence": 0.576,
+      "direction_agreement": 0.212,
+      "pairs": 528
+    },
+    {
+      "cause": "Intelligenz",
+      "effect": "System",
+      "relation": "decreases",
+      "confidence": 0.576,
+      "direction_agreement": 0.212,
+      "pairs": 406
+    },
+    {
+      "cause": "Quanten",
+      "effect": "Intelligenz",
+      "relation": "decreases",
+      "confidence": 0.573,
+      "direction_agreement": 0.213,
+      "pairs": 253
+    },
+    {
+      "cause": "Feld",
+      "effect": "Intelligenz",
+      "relation": "decreases",
+      "confidence": 0.573,
+      "direction_agreement": 0.213,
+      "pairs": 595
+    },
+    {
+      "cause": "Information",
+      "effect": "Methode",
+      "relation": "decreases",
+      "confidence": 0.572,
+      "direction_agreement": 0.214,
+      "pairs": 435
+    },
+    {
+      "cause": "Bewusstsein",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.571,
+      "direction_agreement": 0.214,
+      "pairs": 28
+    },
+    {
+      "cause": "Feld",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.57,
+      "direction_agreement": 0.215,
+      "pairs": 465
+    },
+    {
+      "cause": "Maschine",
+      "effect": "Methode",
+      "relation": "decreases",
+      "confidence": 0.57,
+      "direction_agreement": 0.215,
+      "pairs": 703
+    },
+    {
+      "cause": "Feld",
+      "effect": "Information",
+      "relation": "decreases",
+      "confidence": 0.569,
+      "direction_agreement": 0.216,
+      "pairs": 496
+    },
+    {
+      "cause": "Analysis",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 0.568,
+      "direction_agreement": 0.216,
+      "pairs": 190
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Wahrheit",
+      "relation": "decreases",
+      "confidence": 0.567,
+      "direction_agreement": 0.217,
+      "pairs": 406
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 0.567,
+      "direction_agreement": 0.216,
+      "pairs": 171
+    },
+    {
+      "cause": "Automat",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.567,
+      "direction_agreement": 0.217,
+      "pairs": 120
+    },
+    {
+      "cause": "Energie",
+      "effect": "Berechnung",
+      "relation": "decreases",
+      "confidence": 0.566,
+      "direction_agreement": 0.217,
+      "pairs": 378
+    },
+    {
+      "cause": "Kraft",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.565,
+      "direction_agreement": 0.217,
+      "pairs": 276
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Logik",
+      "relation": "decreases",
+      "confidence": 0.562,
+      "direction_agreement": 0.219,
+      "pairs": 210
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Zahl",
+      "relation": "decreases",
+      "confidence": 0.559,
+      "direction_agreement": 0.221,
+      "pairs": 435
+    },
+    {
+      "cause": "Automat",
+      "effect": "Wahrheit",
+      "relation": "decreases",
+      "confidence": 0.559,
+      "direction_agreement": 0.221,
+      "pairs": 435
+    },
+    {
+      "cause": "Magnet",
+      "effect": "Teilchen",
+      "relation": "decreases",
+      "confidence": 0.558,
+      "direction_agreement": 0.221,
+      "pairs": 190
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "Berechnung",
+      "relation": "decreases",
+      "confidence": 0.558,
+      "direction_agreement": 0.221,
+      "pairs": 190
+    },
+    {
+      "cause": "Energie",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.558,
+      "direction_agreement": 0.221,
+      "pairs": 276
+    },
+    {
+      "cause": "Electric",
+      "effect": "Berechnung",
+      "relation": "decreases",
+      "confidence": 0.557,
+      "direction_agreement": 0.222,
+      "pairs": 406
+    },
+    {
+      "cause": "Information",
+      "effect": "Regelung",
+      "relation": "decreases",
+      "confidence": 0.556,
+      "direction_agreement": 0.222,
+      "pairs": 36
+    },
+    {
+      "cause": "Denken",
+      "effect": "Automat",
+      "relation": "decreases",
+      "confidence": 0.554,
+      "direction_agreement": 0.223,
+      "pairs": 435
+    },
+    {
+      "cause": "Welle",
+      "effect": "Logik",
+      "relation": "decreases",
+      "confidence": 0.553,
+      "direction_agreement": 0.224,
+      "pairs": 465
+    },
+    {
+      "cause": "Welle",
+      "effect": "Information",
+      "relation": "decreases",
+      "confidence": 0.553,
+      "direction_agreement": 0.223,
+      "pairs": 300
+    },
+    {
+      "cause": "System",
+      "effect": "Netzwerk",
+      "relation": "decreases",
+      "confidence": 0.547,
+      "direction_agreement": 0.226,
+      "pairs": 190
+    },
+    {
+      "cause": "Aether",
+      "effect": "Teilchen",
+      "relation": "decreases",
+      "confidence": 0.544,
+      "direction_agreement": 0.228,
+      "pairs": 171
+    },
+    {
+      "cause": "Denken",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.544,
+      "direction_agreement": 0.228,
+      "pairs": 351
+    },
+    {
+      "cause": "Aether",
+      "effect": "Lebenskraft",
+      "relation": "decreases",
+      "confidence": 0.542,
+      "direction_agreement": 0.229,
+      "pairs": 153
+    },
+    {
+      "cause": "Gehirn",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.54,
+      "direction_agreement": 0.23,
+      "pairs": 300
+    },
+    {
+      "cause": "Maschine",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.538,
+      "direction_agreement": 0.231,
+      "pairs": 325
+    },
+    {
+      "cause": "Logik",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.537,
+      "direction_agreement": 0.232,
+      "pairs": 190
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Logik",
+      "relation": "decreases",
+      "confidence": 0.534,
+      "direction_agreement": 0.233,
+      "pairs": 253
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "System",
+      "relation": "decreases",
+      "confidence": 0.533,
+      "direction_agreement": 0.233,
+      "pairs": 210
+    },
+    {
+      "cause": "Analysis",
+      "effect": "Wahrheit",
+      "relation": "decreases",
+      "confidence": 0.533,
+      "direction_agreement": 0.234,
+      "pairs": 351
+    },
+    {
+      "cause": "Electric",
+      "effect": "Lebenskraft",
+      "relation": "decreases",
+      "confidence": 0.532,
+      "direction_agreement": 0.234,
+      "pairs": 171
+    },
+    {
+      "cause": "Information",
+      "effect": "Zahl",
+      "relation": "decreases",
+      "confidence": 0.532,
+      "direction_agreement": 0.234,
+      "pairs": 406
+    },
+    {
+      "cause": "Quanten",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.529,
+      "direction_agreement": 0.235,
+      "pairs": 153
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Denken",
+      "relation": "decreases",
+      "confidence": 0.526,
+      "direction_agreement": 0.237,
+      "pairs": 325
+    },
+    {
+      "cause": "Quanten",
+      "effect": "Gehirn",
+      "relation": "decreases",
+      "confidence": 0.526,
+      "direction_agreement": 0.237,
+      "pairs": 325
+    },
+    {
+      "cause": "Maschine",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.524,
+      "direction_agreement": 0.238,
+      "pairs": 231
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Methode",
+      "relation": "decreases",
+      "confidence": 0.522,
+      "direction_agreement": 0.239,
+      "pairs": 435
+    },
+    {
+      "cause": "Electric",
+      "effect": "Zahl",
+      "relation": "decreases",
+      "confidence": 0.519,
+      "direction_agreement": 0.24,
+      "pairs": 595
+    },
+    {
+      "cause": "Kausalitaet",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 0.516,
+      "direction_agreement": 0.242,
+      "pairs": 190
+    },
+    {
+      "cause": "Berechnung",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 0.51,
+      "direction_agreement": 0.245,
+      "pairs": 465
+    },
+    {
+      "cause": "Neuron",
+      "effect": "Maschine",
+      "relation": "decreases",
+      "confidence": 0.508,
+      "direction_agreement": 0.246,
+      "pairs": 496
+    },
+    {
+      "cause": "Magnet",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.505,
+      "direction_agreement": 0.248,
+      "pairs": 210
+    },
+    {
+      "cause": "Maschine",
+      "effect": "Information",
+      "relation": "decreases",
+      "confidence": 0.505,
+      "direction_agreement": 0.248,
+      "pairs": 210
+    },
+    {
+      "cause": "Aether",
+      "effect": "System",
+      "relation": "decreases",
+      "confidence": 0.504,
+      "direction_agreement": 0.248,
+      "pairs": 351
+    },
+    {
+      "cause": "Electric",
+      "effect": "Denken",
+      "relation": "decreases",
+      "confidence": 0.504,
+      "direction_agreement": 0.248,
+      "pairs": 528
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Wahrheit",
+      "relation": "decreases",
+      "confidence": 0.504,
+      "direction_agreement": 0.248,
+      "pairs": 351
+    },
+    {
+      "cause": "Feld",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.501,
+      "direction_agreement": 0.249,
+      "pairs": 465
+    },
+    {
+      "cause": "Magnet",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.5,
+      "direction_agreement": 0.25,
+      "pairs": 300
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "Information",
+      "relation": "decreases",
+      "confidence": 0.5,
+      "direction_agreement": 0.25,
+      "pairs": 28
+    },
+    {
+      "cause": "Welle",
+      "effect": "Maschine",
+      "relation": "decreases",
+      "confidence": 0.5,
+      "direction_agreement": 0.25,
+      "pairs": 496
+    },
+    {
+      "cause": "Algorithmus",
+      "effect": "Information",
+      "relation": "decreases",
+      "confidence": 0.5,
+      "direction_agreement": 0.25,
+      "pairs": 28
+    },
+    {
+      "cause": "Algorithmus",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.5,
+      "direction_agreement": 0.25,
+      "pairs": 28
+    },
+    {
+      "cause": "Information",
+      "effect": "Entropie",
+      "relation": "decreases",
+      "confidence": 0.5,
+      "direction_agreement": 0.25,
+      "pairs": 28
+    },
+    {
+      "cause": "Information",
+      "effect": "Kybernetik",
+      "relation": "decreases",
+      "confidence": 0.5,
+      "direction_agreement": 0.25,
+      "pairs": 28
+    },
+    {
+      "cause": "Information",
+      "effect": "Rueckkopplung",
+      "relation": "decreases",
+      "confidence": 0.5,
+      "direction_agreement": 0.25,
+      "pairs": 28
+    },
+    {
+      "cause": "Information",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 0.5,
+      "direction_agreement": 0.25,
+      "pairs": 28
+    },
+    {
+      "cause": "Entropie",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.5,
+      "direction_agreement": 0.25,
+      "pairs": 28
+    },
+    {
+      "cause": "Kybernetik",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.5,
+      "direction_agreement": 0.25,
+      "pairs": 28
+    },
+    {
+      "cause": "Rueckkopplung",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.5,
+      "direction_agreement": 0.25,
+      "pairs": 28
+    },
+    {
+      "cause": "Regelung",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.5,
+      "direction_agreement": 0.25,
+      "pairs": 28
+    },
+    {
+      "cause": "Signal",
+      "effect": "Synthesis",
+      "relation": "decreases",
+      "confidence": 0.5,
+      "direction_agreement": 0.25,
+      "pairs": 28
+    },
+    {
+      "cause": "Signal",
+      "effect": "Wesen",
+      "relation": "decreases",
+      "confidence": 0.5,
+      "direction_agreement": 0.25,
+      "pairs": 276
+    },
+    {
+      "cause": "Electric",
+      "effect": "Wesen",
+      "relation": "decreases",
+      "confidence": 0.499,
+      "direction_agreement": 0.251,
+      "pairs": 435
+    },
+    {
+      "cause": "Electric",
+      "effect": "Methode",
+      "relation": "decreases",
+      "confidence": 0.495,
+      "direction_agreement": 0.252,
+      "pairs": 630
+    },
+    {
+      "cause": "Automat",
+      "effect": "Netzwerk",
+      "relation": "decreases",
+      "confidence": 0.495,
+      "direction_agreement": 0.253,
+      "pairs": 91
+    },
+    {
+      "cause": "Information",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 0.495,
+      "direction_agreement": 0.252,
+      "pairs": 210
+    },
+    {
+      "cause": "Information",
+      "effect": "Wesen",
+      "relation": "decreases",
+      "confidence": 0.494,
+      "direction_agreement": 0.253,
+      "pairs": 253
+    },
+    {
+      "cause": "Berechnung",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.493,
+      "direction_agreement": 0.254,
+      "pairs": 351
+    },
+    {
+      "cause": "Maschine",
+      "effect": "Zahl",
+      "relation": "decreases",
+      "confidence": 0.492,
+      "direction_agreement": 0.254,
+      "pairs": 630
+    },
+    {
+      "cause": "Feld",
+      "effect": "Maschine",
+      "relation": "decreases",
+      "confidence": 0.489,
+      "direction_agreement": 0.256,
+      "pairs": 630
+    },
+    {
+      "cause": "Welle",
+      "effect": "Automat",
+      "relation": "decreases",
+      "confidence": 0.487,
+      "direction_agreement": 0.256,
+      "pairs": 351
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Denken",
+      "relation": "decreases",
+      "confidence": 0.481,
+      "direction_agreement": 0.259,
+      "pairs": 351
+    },
+    {
+      "cause": "Automat",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.481,
+      "direction_agreement": 0.26,
+      "pairs": 231
+    },
+    {
+      "cause": "Kraft",
+      "effect": "Maschine",
+      "relation": "decreases",
+      "confidence": 0.48,
+      "direction_agreement": 0.26,
+      "pairs": 465
+    },
+    {
+      "cause": "Quanten",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.478,
+      "direction_agreement": 0.261,
+      "pairs": 253
+    },
+    {
+      "cause": "Berechnung",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.478,
+      "direction_agreement": 0.261,
+      "pairs": 253
+    },
+    {
+      "cause": "Electric",
+      "effect": "Feld",
+      "relation": "decreases",
+      "confidence": 0.476,
+      "direction_agreement": 0.262,
+      "pairs": 630
+    },
+    {
+      "cause": "Electric",
+      "effect": "Gehirn",
+      "relation": "decreases",
+      "confidence": 0.476,
+      "direction_agreement": 0.262,
+      "pairs": 351
+    },
+    {
+      "cause": "Denken",
+      "effect": "Maschine",
+      "relation": "decreases",
+      "confidence": 0.469,
+      "direction_agreement": 0.266,
+      "pairs": 595
+    },
+    {
+      "cause": "Quanten",
+      "effect": "Logik",
+      "relation": "decreases",
+      "confidence": 0.466,
+      "direction_agreement": 0.267,
+      "pairs": 378
+    },
+    {
+      "cause": "Energie",
+      "effect": "System",
+      "relation": "decreases",
+      "confidence": 0.464,
+      "direction_agreement": 0.268,
+      "pairs": 351
+    },
+    {
+      "cause": "Steuerung",
+      "effect": "Wahrheit",
+      "relation": "decreases",
+      "confidence": 0.464,
+      "direction_agreement": 0.268,
+      "pairs": 351
+    },
+    {
+      "cause": "Resonanz",
+      "effect": "Automat",
+      "relation": "decreases",
+      "confidence": 0.462,
+      "direction_agreement": 0.269,
+      "pairs": 78
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Energie",
+      "relation": "decreases",
+      "confidence": 0.462,
+      "direction_agreement": 0.269,
+      "pairs": 171
+    },
+    {
+      "cause": "Aether",
+      "effect": "Electric",
+      "relation": "decreases",
+      "confidence": 0.46,
+      "direction_agreement": 0.27,
+      "pairs": 300
+    },
+    {
+      "cause": "Sympathie",
+      "effect": "Neuron",
+      "relation": "decreases",
+      "confidence": 0.458,
+      "direction_agreement": 0.271,
+      "pairs": 325
+    },
+    {
+      "cause": "Teilchen",
+      "effect": "Wesen",
+      "relation": "decreases",
+      "confidence": 0.455,
+      "direction_agreement": 0.273,
+      "pairs": 231
+    },
+    {
+      "cause": "Gehirn",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 0.455,
+      "direction_agreement": 0.272,
+      "pairs": 378
+    },
+    {
+      "cause": "Information",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.455,
+      "direction_agreement": 0.273,
+      "pairs": 66
+    },
+    {
+      "cause": "Maschine",
+      "effect": "Berechnung",
+      "relation": "decreases",
+      "confidence": 0.454,
+      "direction_agreement": 0.273,
+      "pairs": 465
+    },
+    {
+      "cause": "Welle",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 0.453,
+      "direction_agreement": 0.274,
+      "pairs": 435
+    },
+    {
+      "cause": "Gehirn",
+      "effect": "Berechnung",
+      "relation": "decreases",
+      "confidence": 0.453,
+      "direction_agreement": 0.274,
+      "pairs": 351
+    },
+    {
+      "cause": "Maschine",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 0.447,
+      "direction_agreement": 0.277,
+      "pairs": 253
+    },
+    {
+      "cause": "Maschine",
+      "effect": "Wahrheit",
+      "relation": "decreases",
+      "confidence": 0.445,
+      "direction_agreement": 0.277,
+      "pairs": 595
+    },
+    {
+      "cause": "Aether",
+      "effect": "Denken",
+      "relation": "decreases",
+      "confidence": 0.444,
+      "direction_agreement": 0.278,
+      "pairs": 435
+    },
+    {
+      "cause": "Intelligenz",
+      "effect": "Wahrheit",
+      "relation": "decreases",
+      "confidence": 0.442,
+      "direction_agreement": 0.279,
+      "pairs": 595
+    },
+    {
+      "cause": "Aether",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 0.439,
+      "direction_agreement": 0.28,
+      "pairs": 378
+    },
+    {
+      "cause": "Magnet",
+      "effect": "Information",
+      "relation": "decreases",
+      "confidence": 0.438,
+      "direction_agreement": 0.281,
+      "pairs": 210
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Denken",
+      "relation": "decreases",
+      "confidence": 0.436,
+      "direction_agreement": 0.282,
+      "pairs": 351
+    },
+    {
+      "cause": "Intelligenz",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.435,
+      "direction_agreement": 0.283,
+      "pairs": 276
+    },
+    {
+      "cause": "Kraft",
+      "effect": "Quanten",
+      "relation": "decreases",
+      "confidence": 0.433,
+      "direction_agreement": 0.283,
+      "pairs": 406
+    },
+    {
+      "cause": "Intelligenz",
+      "effect": "Denken",
+      "relation": "decreases",
+      "confidence": 0.432,
+      "direction_agreement": 0.284,
+      "pairs": 528
+    },
+    {
+      "cause": "Denken",
+      "effect": "Wahrheit",
+      "relation": "increases",
+      "confidence": 0.432,
+      "direction_agreement": 0.716,
+      "pairs": 465
+    },
+    {
+      "cause": "Magnet",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 0.429,
+      "direction_agreement": 0.286,
+      "pairs": 231
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Netzwerk",
+      "relation": "decreases",
+      "confidence": 0.429,
+      "direction_agreement": 0.286,
+      "pairs": 28
+    },
+    {
+      "cause": "Bewusstsein",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.429,
+      "direction_agreement": 0.286,
+      "pairs": 105
+    },
+    {
+      "cause": "Neuron",
+      "effect": "Automat",
+      "relation": "decreases",
+      "confidence": 0.429,
+      "direction_agreement": 0.286,
+      "pairs": 406
+    },
+    {
+      "cause": "Logik",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 0.429,
+      "direction_agreement": 0.286,
+      "pairs": 231
+    },
+    {
+      "cause": "Naturlehre",
+      "effect": "Zahl",
+      "relation": "decreases",
+      "confidence": 0.424,
+      "direction_agreement": 0.288,
+      "pairs": 406
+    },
+    {
+      "cause": "Signal",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 0.421,
+      "direction_agreement": 0.289,
+      "pairs": 190
+    },
+    {
+      "cause": "Aether",
+      "effect": "Quanten",
+      "relation": "decreases",
+      "confidence": 0.42,
+      "direction_agreement": 0.29,
+      "pairs": 300
+    },
+    {
+      "cause": "Logik",
+      "effect": "Analysis",
+      "relation": "decreases",
+      "confidence": 0.42,
+      "direction_agreement": 0.29,
+      "pairs": 231
+    },
+    {
+      "cause": "Magnet",
+      "effect": "Logik",
+      "relation": "decreases",
+      "confidence": 0.419,
+      "direction_agreement": 0.291,
+      "pairs": 351
+    },
+    {
+      "cause": "Energie",
+      "effect": "Automat",
+      "relation": "decreases",
+      "confidence": 0.419,
+      "direction_agreement": 0.29,
+      "pairs": 210
+    },
+    {
+      "cause": "Information",
+      "effect": "System",
+      "relation": "decreases",
+      "confidence": 0.419,
+      "direction_agreement": 0.29,
+      "pairs": 210
+    },
+    {
+      "cause": "Automat",
+      "effect": "Signal",
+      "relation": "decreases",
+      "confidence": 0.417,
+      "direction_agreement": 0.292,
+      "pairs": 120
+    },
+    {
+      "cause": "Information",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.417,
+      "direction_agreement": 0.292,
+      "pairs": 120
+    },
+    {
+      "cause": "Lebenskraft",
+      "effect": "Feld",
+      "relation": "decreases",
+      "confidence": 0.415,
+      "direction_agreement": 0.292,
+      "pairs": 465
+    },
+    {
+      "cause": "Kraft",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 0.413,
+      "direction_agreement": 0.293,
+      "pairs": 300
+    },
+    {
+      "cause": "Analysis",
+      "effect": "Erkenntnis",
+      "relation": "decreases",
+      "confidence": 0.412,
+      "direction_agreement": 0.294,
+      "pairs": 153
+    },
+    {
+      "cause": "Kraft",
+      "effect": "Sympathie",
+      "relation": "decreases",
+      "confidence": 0.41,
+      "direction_agreement": 0.295,
+      "pairs": 210
+    },
+    {
+      "cause": "System",
+      "effect": "Kausalitaet",
+      "relation": "decreases",
+      "confidence": 0.41,
+      "direction_agreement": 0.295,
+      "pairs": 210
+    },
+    {
+      "cause": "Steuerung",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 0.41,
+      "direction_agreement": 0.295,
+      "pairs": 210
+    },
+    {
+      "cause": "Welle",
+      "effect": "Steuerung",
+      "relation": "decreases",
+      "confidence": 0.409,
+      "direction_agreement": 0.295,
+      "pairs": 325
+    },
+    {
+      "cause": "Welle",
+      "effect": "Wesen",
+      "relation": "decreases",
+      "confidence": 0.409,
+      "direction_agreement": 0.295,
+      "pairs": 528
+    },
+    {
+      "cause": "Berechnung",
+      "effect": "Wesen",
+      "relation": "decreases",
+      "confidence": 0.406,
+      "direction_agreement": 0.297,
+      "pairs": 465
+    },
+    {
+      "cause": "Methode",
+      "effect": "Substanz",
+      "relation": "decreases",
+      "confidence": 0.401,
+      "direction_agreement": 0.299,
+      "pairs": 561
+    }
+  ],
+  "batch_triples": [
+    [
+      "Aether",
+      "decreases",
+      "Hermetik",
+      1.0
+    ],
+    [
+      "Aether",
+      "decreases",
+      "OrganPhysik",
+      1.0
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Kognition",
+      1.0
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Bewusstsein",
+      1.0
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Algorithmus",
+      1.0
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Entropie",
+      1.0
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Kybernetik",
+      1.0
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Rueckkopplung",
+      1.0
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Regelung",
+      1.0
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Synthesis",
+      1.0
+    ],
+    [
+      "Kraft",
+      "decreases",
+      "Hermetik",
+      1.0
+    ],
+    [
+      "Kraft",
+      "decreases",
+      "OrganPhysik",
+      1.0
+    ],
+    [
+      "Kraft",
+      "decreases",
+      "Kognition",
+      1.0
+    ],
+    [
+      "Magnet",
+      "decreases",
+      "Hermetik",
+      1.0
+    ],
+    [
+      "Magnet",
+      "decreases",
+      "OrganPhysik",
+      1.0
+    ],
+    [
+      "Magnet",
+      "decreases",
+      "Kognition",
+      1.0
+    ],
+    [
+      "Magnet",
+      "decreases",
+      "Algorithmus",
+      1.0
+    ],
+    [
+      "Magnet",
+      "decreases",
+      "Entropie",
+      1.0
+    ],
+    [
+      "Magnet",
+      "decreases",
+      "Kybernetik",
+      1.0
+    ],
+    [
+      "Magnet",
+      "decreases",
+      "Rueckkopplung",
+      1.0
+    ],
+    [
+      "Magnet",
+      "decreases",
+      "Regelung",
+      1.0
+    ],
+    [
+      "Magnet",
+      "decreases",
+      "Synthesis",
+      1.0
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Hermetik",
+      1.0
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Magia",
+      1.0
+    ],
+    [
+      "Electric",
+      "decreases",
+      "OrganPhysik",
+      1.0
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Kognition",
+      1.0
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Bewusstsein",
+      1.0
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Algorithmus",
+      1.0
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Entropie",
+      1.0
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Kybernetik",
+      1.0
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Rueckkopplung",
+      1.0
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Regelung",
+      1.0
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Synthesis",
+      1.0
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Hermetik",
+      1.0
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Magia",
+      1.0
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "OrganPhysik",
+      1.0
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Kognition",
+      1.0
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Bewusstsein",
+      1.0
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Algorithmus",
+      1.0
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Entropie",
+      1.0
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Kybernetik",
+      1.0
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Rueckkopplung",
+      1.0
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Regelung",
+      1.0
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Signal",
+      1.0
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Synthesis",
+      1.0
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "Sympathie",
+      1.0
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "Intelligenz",
+      1.0
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "Bewusstsein",
+      1.0
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Hermetik",
+      1.0
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Magia",
+      1.0
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "OrganPhysik",
+      1.0
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Teilchen",
+      1.0
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Kognition",
+      1.0
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Algorithmus",
+      1.0
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Information",
+      1.0
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Entropie",
+      1.0
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Kybernetik",
+      1.0
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Rueckkopplung",
+      1.0
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Regelung",
+      1.0
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Signal",
+      1.0
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Synthesis",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "Naturlehre",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "Quanten",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "Welle",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "Teilchen",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "Feld",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "Energie",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "Intelligenz",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "Denken",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "Gehirn",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "Neuron",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "Logik",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "Automat",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "Maschine",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "Information",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "System",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "Steuerung",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "Signal",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "Berechnung",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "Zahl",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "Methode",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "Analysis",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "Kausalitaet",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "Substanz",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "Wesen",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "Erkenntnis",
+      1.0
+    ],
+    [
+      "Hermetik",
+      "decreases",
+      "Wahrheit",
+      1.0
+    ],
+    [
+      "Magia",
+      "decreases",
+      "Naturlehre",
+      1.0
+    ],
+    [
+      "Magia",
+      "decreases",
+      "Quanten",
+      1.0
+    ],
+    [
+      "Magia",
+      "decreases",
+      "Teilchen",
+      1.0
+    ],
+    [
+      "Magia",
+      "decreases",
+      "Energie",
+      1.0
+    ],
+    [
+      "Magia",
+      "decreases",
+      "Intelligenz",
+      1.0
+    ],
+    [
+      "Magia",
+      "decreases",
+      "Neuron",
+      1.0
+    ],
+    [
+      "Magia",
+      "decreases",
+      "Logik",
+      1.0
+    ],
+    [
+      "Magia",
+      "decreases",
+      "Steuerung",
+      1.0
+    ],
+    [
+      "Magia",
+      "decreases",
+      "Signal",
+      1.0
+    ],
+    [
+      "Magia",
+      "decreases",
+      "Methode",
+      1.0
+    ],
+    [
+      "Magia",
+      "decreases",
+      "Analysis",
+      1.0
+    ],
+    [
+      "Magia",
+      "decreases",
+      "Kausalitaet",
+      1.0
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "OrganPhysik",
+      1.0
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Kognition",
+      1.0
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Bewusstsein",
+      1.0
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Algorithmus",
+      1.0
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Entropie",
+      1.0
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Kybernetik",
+      1.0
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Rueckkopplung",
+      1.0
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Netzwerk",
+      1.0
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Regelung",
+      1.0
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Synthesis",
+      1.0
+    ],
+    [
+      "OrganPhysik",
+      "decreases",
+      "Quanten",
+      1.0
+    ],
+    [
+      "OrganPhysik",
+      "decreases",
+      "Welle",
+      1.0
+    ],
+    [
+      "OrganPhysik",
+      "decreases",
+      "Teilchen",
+      1.0
+    ],
+    [
+      "OrganPhysik",
+      "decreases",
+      "Feld",
+      1.0
+    ],
+    [
+      "OrganPhysik",
+      "decreases",
+      "Energie",
+      1.0
+    ],
+    [
+      "OrganPhysik",
+      "decreases",
+      "Intelligenz",
+      1.0
+    ],
+    [
+      "OrganPhysik",
+      "decreases",
+      "Denken",
+      1.0
+    ],
+    [
+      "OrganPhysik",
+      "decreases",
+      "Gehirn",
+      1.0
+    ],
+    [
+      "OrganPhysik",
+      "decreases",
+      "Neuron",
+      1.0
+    ],
+    [
+      "OrganPhysik",
+      "decreases",
+      "Logik",
+      1.0
+    ],
+    [
+      "OrganPhysik",
+      "decreases",
+      "Automat",
+      1.0
+    ],
+    [
+      "OrganPhysik",
+      "decreases",
+      "Maschine",
+      1.0
+    ],
+    [
+      "OrganPhysik",
+      "decreases",
+      "Information",
+      1.0
+    ],
+    [
+      "OrganPhysik",
+      "decreases",
+      "System",
+      1.0
+    ],
+    [
+      "OrganPhysik",
+      "decreases",
+      "Steuerung",
+      1.0
+    ],
+    [
+      "OrganPhysik",
+      "decreases",
+      "Signal",
+      1.0
+    ],
+    [
+      "OrganPhysik",
+      "decreases",
+      "Berechnung",
+      1.0
+    ],
+    [
+      "OrganPhysik",
+      "decreases",
+      "Zahl",
+      1.0
+    ],
+    [
+      "OrganPhysik",
+      "decreases",
+      "Methode",
+      1.0
+    ],
+    [
+      "OrganPhysik",
+      "decreases",
+      "Analysis",
+      1.0
+    ],
+    [
+      "OrganPhysik",
+      "decreases",
+      "Kausalitaet",
+      1.0
+    ],
+    [
+      "OrganPhysik",
+      "decreases",
+      "Substanz",
+      1.0
+    ],
+    [
+      "OrganPhysik",
+      "decreases",
+      "Wesen",
+      1.0
+    ],
+    [
+      "OrganPhysik",
+      "decreases",
+      "Erkenntnis",
+      1.0
+    ],
+    [
+      "OrganPhysik",
+      "decreases",
+      "Wahrheit",
+      1.0
+    ],
+    [
+      "Quanten",
+      "decreases",
+      "Kognition",
+      1.0
+    ],
+    [
+      "Quanten",
+      "decreases",
+      "Algorithmus",
+      1.0
+    ],
+    [
+      "Quanten",
+      "decreases",
+      "Entropie",
+      1.0
+    ],
+    [
+      "Quanten",
+      "decreases",
+      "Kybernetik",
+      1.0
+    ],
+    [
+      "Quanten",
+      "decreases",
+      "Rueckkopplung",
+      1.0
+    ],
+    [
+      "Quanten",
+      "decreases",
+      "Regelung",
+      1.0
+    ],
+    [
+      "Quanten",
+      "decreases",
+      "Synthesis",
+      1.0
+    ],
+    [
+      "Welle",
+      "decreases",
+      "Kognition",
+      1.0
+    ],
+    [
+      "Welle",
+      "decreases",
+      "Algorithmus",
+      1.0
+    ],
+    [
+      "Welle",
+      "decreases",
+      "Entropie",
+      1.0
+    ],
+    [
+      "Welle",
+      "decreases",
+      "Kybernetik",
+      1.0
+    ],
+    [
+      "Welle",
+      "decreases",
+      "Rueckkopplung",
+      1.0
+    ],
+    [
+      "Welle",
+      "decreases",
+      "Netzwerk",
+      1.0
+    ],
+    [
+      "Welle",
+      "decreases",
+      "Regelung",
+      1.0
+    ],
+    [
+      "Welle",
+      "decreases",
+      "Synthesis",
+      1.0
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Kognition",
+      1.0
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Bewusstsein",
+      1.0
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Algorithmus",
+      1.0
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Entropie",
+      1.0
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Kybernetik",
+      1.0
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Rueckkopplung",
+      1.0
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Netzwerk",
+      1.0
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Regelung",
+      1.0
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Synthesis",
+      1.0
+    ],
+    [
+      "Feld",
+      "decreases",
+      "Kognition",
+      1.0
+    ],
+    [
+      "Energie",
+      "decreases",
+      "Kognition",
+      1.0
+    ],
+    [
+      "Energie",
+      "decreases",
+      "Algorithmus",
+      1.0
+    ],
+    [
+      "Energie",
+      "decreases",
+      "Entropie",
+      1.0
+    ],
+    [
+      "Energie",
+      "decreases",
+      "Kybernetik",
+      1.0
+    ],
+    [
+      "Energie",
+      "decreases",
+      "Rueckkopplung",
+      1.0
+    ],
+    [
+      "Energie",
+      "decreases",
+      "Regelung",
+      1.0
+    ],
+    [
+      "Energie",
+      "decreases",
+      "Synthesis",
+      1.0
+    ],
+    [
+      "Intelligenz",
+      "decreases",
+      "Kognition",
+      1.0
+    ],
+    [
+      "Intelligenz",
+      "decreases",
+      "Algorithmus",
+      1.0
+    ],
+    [
+      "Intelligenz",
+      "decreases",
+      "Information",
+      1.0
+    ],
+    [
+      "Intelligenz",
+      "decreases",
+      "Entropie",
+      1.0
+    ],
+    [
+      "Intelligenz",
+      "decreases",
+      "Kybernetik",
+      1.0
+    ],
+    [
+      "Intelligenz",
+      "decreases",
+      "Rueckkopplung",
+      1.0
+    ],
+    [
+      "Intelligenz",
+      "decreases",
+      "Synthesis",
+      1.0
+    ],
+    [
+      "Kognition",
+      "decreases",
+      "Denken",
+      1.0
+    ],
+    [
+      "Kognition",
+      "decreases",
+      "Gehirn",
+      1.0
+    ],
+    [
+      "Kognition",
+      "decreases",
+      "Neuron",
+      1.0
+    ],
+    [
+      "Kognition",
+      "decreases",
+      "Logik",
+      1.0
+    ],
+    [
+      "Kognition",
+      "decreases",
+      "Automat",
+      1.0
+    ],
+    [
+      "Kognition",
+      "decreases",
+      "Maschine",
+      1.0
+    ],
+    [
+      "Kognition",
+      "decreases",
+      "Information",
+      1.0
+    ],
+    [
+      "Kognition",
+      "decreases",
+      "System",
+      1.0
+    ],
+    [
+      "Kognition",
+      "decreases",
+      "Steuerung",
+      1.0
+    ],
+    [
+      "Kognition",
+      "decreases",
+      "Signal",
+      1.0
+    ],
+    [
+      "Kognition",
+      "decreases",
+      "Berechnung",
+      1.0
+    ],
+    [
+      "Kognition",
+      "decreases",
+      "Zahl",
+      1.0
+    ],
+    [
+      "Kognition",
+      "decreases",
+      "Methode",
+      1.0
+    ],
+    [
+      "Kognition",
+      "decreases",
+      "Analysis",
+      1.0
+    ],
+    [
+      "Kognition",
+      "decreases",
+      "Kausalitaet",
+      1.0
+    ],
+    [
+      "Kognition",
+      "decreases",
+      "Substanz",
+      1.0
+    ],
+    [
+      "Kognition",
+      "decreases",
+      "Wesen",
+      1.0
+    ],
+    [
+      "Kognition",
+      "decreases",
+      "Erkenntnis",
+      1.0
+    ],
+    [
+      "Kognition",
+      "decreases",
+      "Wahrheit",
+      1.0
+    ],
+    [
+      "Bewusstsein",
+      "decreases",
+      "Automat",
+      1.0
+    ],
+    [
+      "Bewusstsein",
+      "decreases",
+      "Information",
+      1.0
+    ],
+    [
+      "Bewusstsein",
+      "decreases",
+      "Netzwerk",
+      1.0
+    ],
+    [
+      "Bewusstsein",
+      "decreases",
+      "Berechnung",
+      1.0
+    ],
+    [
+      "Gehirn",
+      "decreases",
+      "Algorithmus",
+      1.0
+    ],
+    [
+      "Gehirn",
+      "decreases",
+      "Entropie",
+      1.0
+    ],
+    [
+      "Gehirn",
+      "decreases",
+      "Kybernetik",
+      1.0
+    ],
+    [
+      "Gehirn",
+      "decreases",
+      "Rueckkopplung",
+      1.0
+    ],
+    [
+      "Gehirn",
+      "decreases",
+      "Regelung",
+      1.0
+    ],
+    [
+      "Gehirn",
+      "decreases",
+      "Synthesis",
+      1.0
+    ],
+    [
+      "Neuron",
+      "decreases",
+      "Algorithmus",
+      1.0
+    ],
+    [
+      "Neuron",
+      "decreases",
+      "Entropie",
+      1.0
+    ],
+    [
+      "Neuron",
+      "decreases",
+      "Kybernetik",
+      1.0
+    ],
+    [
+      "Neuron",
+      "decreases",
+      "Rueckkopplung",
+      1.0
+    ],
+    [
+      "Neuron",
+      "decreases",
+      "Regelung",
+      1.0
+    ],
+    [
+      "Neuron",
+      "decreases",
+      "Synthesis",
+      1.0
+    ],
+    [
+      "Algorithmus",
+      "decreases",
+      "Kausalitaet",
+      1.0
+    ],
+    [
+      "Algorithmus",
+      "decreases",
+      "Substanz",
+      1.0
+    ],
+    [
+      "Entropie",
+      "decreases",
+      "Kausalitaet",
+      1.0
+    ],
+    [
+      "Entropie",
+      "decreases",
+      "Substanz",
+      1.0
+    ],
+    [
+      "Kybernetik",
+      "decreases",
+      "Kausalitaet",
+      1.0
+    ],
+    [
+      "Kybernetik",
+      "decreases",
+      "Substanz",
+      1.0
+    ],
+    [
+      "Rueckkopplung",
+      "decreases",
+      "Kausalitaet",
+      1.0
+    ],
+    [
+      "Rueckkopplung",
+      "decreases",
+      "Substanz",
+      1.0
+    ],
+    [
+      "Synthesis",
+      "decreases",
+      "Kausalitaet",
+      1.0
+    ],
+    [
+      "Synthesis",
+      "decreases",
+      "Substanz",
+      1.0
+    ],
+    [
+      "Magia",
+      "decreases",
+      "Denken",
+      0.994
+    ],
+    [
+      "Welle",
+      "decreases",
+      "Bewusstsein",
+      0.993
+    ],
+    [
+      "Bewusstsein",
+      "decreases",
+      "Neuron",
+      0.989
+    ],
+    [
+      "Algorithmus",
+      "decreases",
+      "Wahrheit",
+      0.989
+    ],
+    [
+      "Entropie",
+      "decreases",
+      "Wahrheit",
+      0.989
+    ],
+    [
+      "Kybernetik",
+      "decreases",
+      "Wahrheit",
+      0.989
+    ],
+    [
+      "Rueckkopplung",
+      "decreases",
+      "Wahrheit",
+      0.989
+    ],
+    [
+      "Synthesis",
+      "decreases",
+      "Wahrheit",
+      0.989
+    ],
+    [
+      "Bewusstsein",
+      "decreases",
+      "Gehirn",
+      0.981
+    ],
+    [
+      "Energie",
+      "decreases",
+      "Bewusstsein",
+      0.977
+    ],
+    [
+      "Denken",
+      "decreases",
+      "Algorithmus",
+      0.975
+    ],
+    [
+      "Denken",
+      "decreases",
+      "Entropie",
+      0.975
+    ],
+    [
+      "Denken",
+      "decreases",
+      "Kybernetik",
+      0.975
+    ],
+    [
+      "Denken",
+      "decreases",
+      "Rueckkopplung",
+      0.975
+    ],
+    [
+      "Denken",
+      "decreases",
+      "Synthesis",
+      0.975
+    ],
+    [
+      "Kraft",
+      "decreases",
+      "Algorithmus",
+      0.971
+    ],
+    [
+      "Kraft",
+      "decreases",
+      "Entropie",
+      0.971
+    ],
+    [
+      "Kraft",
+      "decreases",
+      "Kybernetik",
+      0.971
+    ],
+    [
+      "Kraft",
+      "decreases",
+      "Rueckkopplung",
+      0.971
+    ],
+    [
+      "Kraft",
+      "decreases",
+      "Synthesis",
+      0.971
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Berechnung",
+      0.968
+    ],
+    [
+      "Kraft",
+      "decreases",
+      "Regelung",
+      0.965
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Intelligenz",
+      0.965
+    ],
+    [
+      "Bewusstsein",
+      "decreases",
+      "Maschine",
+      0.962
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Netzwerk",
+      0.958
+    ],
+    [
+      "Kraft",
+      "decreases",
+      "Magia",
+      0.952
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Maschine",
+      0.948
+    ],
+    [
+      "Magia",
+      "decreases",
+      "Erkenntnis",
+      0.943
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Intelligenz",
+      0.942
+    ],
+    [
+      "Magia",
+      "decreases",
+      "Welle",
+      0.939
+    ],
+    [
+      "Kraft",
+      "decreases",
+      "Bewusstsein",
+      0.937
+    ],
+    [
+      "Magnet",
+      "decreases",
+      "Bewusstsein",
+      0.937
+    ],
+    [
+      "Feld",
+      "decreases",
+      "Algorithmus",
+      0.936
+    ],
+    [
+      "Feld",
+      "decreases",
+      "Entropie",
+      0.936
+    ],
+    [
+      "Feld",
+      "decreases",
+      "Kybernetik",
+      0.936
+    ],
+    [
+      "Feld",
+      "decreases",
+      "Rueckkopplung",
+      0.936
+    ],
+    [
+      "Feld",
+      "decreases",
+      "Synthesis",
+      0.936
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Steuerung",
+      0.934
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Signal",
+      0.933
+    ],
+    [
+      "Intelligenz",
+      "decreases",
+      "Netzwerk",
+      0.933
+    ],
+    [
+      "Magia",
+      "decreases",
+      "Wahrheit",
+      0.932
+    ],
+    [
+      "Magia",
+      "decreases",
+      "Berechnung",
+      0.926
+    ],
+    [
+      "Magia",
+      "decreases",
+      "Zahl",
+      0.926
+    ],
+    [
+      "Magia",
+      "decreases",
+      "Substanz",
+      0.922
+    ],
+    [
+      "Welle",
+      "decreases",
+      "Intelligenz",
+      0.919
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Intelligenz",
+      0.918
+    ],
+    [
+      "Algorithmus",
+      "decreases",
+      "Maschine",
+      0.916
+    ],
+    [
+      "Maschine",
+      "decreases",
+      "Entropie",
+      0.916
+    ],
+    [
+      "Maschine",
+      "decreases",
+      "Kybernetik",
+      0.916
+    ],
+    [
+      "Maschine",
+      "decreases",
+      "Rueckkopplung",
+      0.916
+    ],
+    [
+      "Maschine",
+      "decreases",
+      "Regelung",
+      0.916
+    ],
+    [
+      "Maschine",
+      "decreases",
+      "Synthesis",
+      0.916
+    ],
+    [
+      "Maschine",
+      "decreases",
+      "Netzwerk",
+      0.914
+    ],
+    [
+      "Bewusstsein",
+      "decreases",
+      "Signal",
+      0.911
+    ],
+    [
+      "Algorithmus",
+      "decreases",
+      "Zahl",
+      0.91
+    ],
+    [
+      "Entropie",
+      "decreases",
+      "Zahl",
+      0.91
+    ],
+    [
+      "Kybernetik",
+      "decreases",
+      "Zahl",
+      0.91
+    ],
+    [
+      "Rueckkopplung",
+      "decreases",
+      "Zahl",
+      0.91
+    ],
+    [
+      "Zahl",
+      "decreases",
+      "Synthesis",
+      0.91
+    ],
+    [
+      "Magnet",
+      "decreases",
+      "Netzwerk",
+      0.906
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Erkenntnis",
+      0.906
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Energie",
+      0.906
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "Kausalitaet",
+      0.905
+    ],
+    [
+      "Magia",
+      "decreases",
+      "Maschine",
+      0.905
+    ],
+    [
+      "Regelung",
+      "decreases",
+      "Kausalitaet",
+      0.905
+    ],
+    [
+      "Quanten",
+      "decreases",
+      "Information",
+      0.897
+    ],
+    [
+      "Algorithmus",
+      "decreases",
+      "Wesen",
+      0.896
+    ],
+    [
+      "Entropie",
+      "decreases",
+      "Wesen",
+      0.896
+    ],
+    [
+      "Kybernetik",
+      "decreases",
+      "Wesen",
+      0.896
+    ],
+    [
+      "Rueckkopplung",
+      "decreases",
+      "Wesen",
+      0.896
+    ],
+    [
+      "Synthesis",
+      "decreases",
+      "Wesen",
+      0.896
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Teilchen",
+      0.895
+    ],
+    [
+      "Magia",
+      "decreases",
+      "System",
+      0.895
+    ],
+    [
+      "Algorithmus",
+      "decreases",
+      "Berechnung",
+      0.895
+    ],
+    [
+      "Entropie",
+      "decreases",
+      "Berechnung",
+      0.895
+    ],
+    [
+      "Kybernetik",
+      "decreases",
+      "Berechnung",
+      0.895
+    ],
+    [
+      "Rueckkopplung",
+      "decreases",
+      "Berechnung",
+      0.895
+    ],
+    [
+      "Regelung",
+      "decreases",
+      "Berechnung",
+      0.895
+    ],
+    [
+      "Berechnung",
+      "decreases",
+      "Synthesis",
+      0.895
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Analysis",
+      0.891
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Information",
+      0.89
+    ],
+    [
+      "Magia",
+      "decreases",
+      "Feld",
+      0.89
+    ],
+    [
+      "Magia",
+      "decreases",
+      "Wesen",
+      0.887
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "Gehirn",
+      0.884
+    ],
+    [
+      "Regelung",
+      "decreases",
+      "Substanz",
+      0.883
+    ],
+    [
+      "Algorithmus",
+      "decreases",
+      "Methode",
+      0.882
+    ],
+    [
+      "Entropie",
+      "decreases",
+      "Methode",
+      0.882
+    ],
+    [
+      "Kybernetik",
+      "decreases",
+      "Methode",
+      0.882
+    ],
+    [
+      "Rueckkopplung",
+      "decreases",
+      "Methode",
+      0.882
+    ],
+    [
+      "Methode",
+      "decreases",
+      "Synthesis",
+      0.882
+    ],
+    [
+      "Gehirn",
+      "decreases",
+      "Signal",
+      0.877
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "Wahrheit",
+      0.875
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Intelligenz",
+      0.874
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Logik",
+      0.874
+    ],
+    [
+      "Logik",
+      "decreases",
+      "Algorithmus",
+      0.874
+    ],
+    [
+      "Logik",
+      "decreases",
+      "Entropie",
+      0.874
+    ],
+    [
+      "Logik",
+      "decreases",
+      "Kybernetik",
+      0.874
+    ],
+    [
+      "Logik",
+      "decreases",
+      "Rueckkopplung",
+      0.874
+    ],
+    [
+      "Logik",
+      "decreases",
+      "Synthesis",
+      0.874
+    ],
+    [
+      "Magnet",
+      "decreases",
+      "Intelligenz",
+      0.871
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "Quanten",
+      0.869
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "Energie",
+      0.869
+    ],
+    [
+      "Regelung",
+      "decreases",
+      "Zahl",
+      0.868
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Intelligenz",
+      0.867
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "Teilchen",
+      0.867
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Information",
+      0.867
+    ],
+    [
+      "Quanten",
+      "decreases",
+      "Signal",
+      0.867
+    ],
+    [
+      "Bewusstsein",
+      "decreases",
+      "Methode",
+      0.867
+    ],
+    [
+      "Intelligenz",
+      "decreases",
+      "Berechnung",
+      0.862
+    ],
+    [
+      "Intelligenz",
+      "decreases",
+      "Automat",
+      0.86
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Quanten",
+      0.857
+    ],
+    [
+      "Bewusstsein",
+      "decreases",
+      "Zahl",
+      0.857
+    ],
+    [
+      "Netzwerk",
+      "decreases",
+      "Substanz",
+      0.853
+    ],
+    [
+      "Regelung",
+      "decreases",
+      "Wahrheit",
+      0.852
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Resonanz",
+      0.848
+    ],
+    [
+      "Magia",
+      "decreases",
+      "Gehirn",
+      0.848
+    ],
+    [
+      "Energie",
+      "decreases",
+      "Analysis",
+      0.848
+    ],
+    [
+      "Welle",
+      "decreases",
+      "Kausalitaet",
+      0.847
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Quanten",
+      0.843
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Sympathie",
+      0.842
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Erkenntnis",
+      0.836
+    ],
+    [
+      "Feld",
+      "decreases",
+      "Regelung",
+      0.834
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Maschine",
+      0.833
+    ],
+    [
+      "Quanten",
+      "decreases",
+      "Bewusstsein",
+      0.833
+    ],
+    [
+      "Netzwerk",
+      "decreases",
+      "Erkenntnis",
+      0.833
+    ],
+    [
+      "Netzwerk",
+      "decreases",
+      "Berechnung",
+      0.832
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Netzwerk",
+      0.83
+    ],
+    [
+      "Magnet",
+      "decreases",
+      "Magia",
+      0.83
+    ],
+    [
+      "Energie",
+      "decreases",
+      "Netzwerk",
+      0.83
+    ],
+    [
+      "Algorithmus",
+      "decreases",
+      "Erkenntnis",
+      0.829
+    ],
+    [
+      "Entropie",
+      "decreases",
+      "Erkenntnis",
+      0.829
+    ],
+    [
+      "Kybernetik",
+      "decreases",
+      "Erkenntnis",
+      0.829
+    ],
+    [
+      "Rueckkopplung",
+      "decreases",
+      "Erkenntnis",
+      0.829
+    ],
+    [
+      "Synthesis",
+      "decreases",
+      "Erkenntnis",
+      0.829
+    ],
+    [
+      "Denken",
+      "decreases",
+      "Regelung",
+      0.828
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Information",
+      0.822
+    ],
+    [
+      "Magia",
+      "decreases",
+      "Automat",
+      0.821
+    ],
+    [
+      "Feld",
+      "decreases",
+      "Bewusstsein",
+      0.821
+    ],
+    [
+      "Signal",
+      "decreases",
+      "Kausalitaet",
+      0.821
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "Logik",
+      0.819
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Teilchen",
+      0.818
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Welle",
+      0.818
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Signal",
+      0.818
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Analysis",
+      0.818
+    ],
+    [
+      "Information",
+      "decreases",
+      "Kausalitaet",
+      0.818
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Analysis",
+      0.81
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Bewusstsein",
+      0.81
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Netzwerk",
+      0.81
+    ],
+    [
+      "Maschine",
+      "decreases",
+      "Kausalitaet",
+      0.81
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "Denken",
+      0.809
+    ],
+    [
+      "Quanten",
+      "decreases",
+      "Netzwerk",
+      0.809
+    ],
+    [
+      "Quanten",
+      "decreases",
+      "Maschine",
+      0.806
+    ],
+    [
+      "Algorithmus",
+      "decreases",
+      "System",
+      0.8
+    ],
+    [
+      "Entropie",
+      "decreases",
+      "System",
+      0.8
+    ],
+    [
+      "System",
+      "decreases",
+      "Kybernetik",
+      0.8
+    ],
+    [
+      "System",
+      "decreases",
+      "Rueckkopplung",
+      0.8
+    ],
+    [
+      "System",
+      "decreases",
+      "Synthesis",
+      0.8
+    ],
+    [
+      "Welle",
+      "decreases",
+      "Signal",
+      0.799
+    ],
+    [
+      "Kraft",
+      "decreases",
+      "Intelligenz",
+      0.798
+    ],
+    [
+      "Neuron",
+      "decreases",
+      "Analysis",
+      0.798
+    ],
+    [
+      "Signal",
+      "decreases",
+      "Wahrheit",
+      0.798
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Magia",
+      0.794
+    ],
+    [
+      "Berechnung",
+      "decreases",
+      "Kausalitaet",
+      0.794
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Kausalitaet",
+      0.79
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Energie",
+      0.79
+    ],
+    [
+      "Energie",
+      "decreases",
+      "Information",
+      0.79
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "Neuron",
+      0.789
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Substanz",
+      0.789
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Naturlehre",
+      0.788
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Teilchen",
+      0.788
+    ],
+    [
+      "Gehirn",
+      "decreases",
+      "Information",
+      0.787
+    ],
+    [
+      "Magia",
+      "decreases",
+      "Information",
+      0.786
+    ],
+    [
+      "Bewusstsein",
+      "decreases",
+      "Kausalitaet",
+      0.786
+    ],
+    [
+      "Intelligenz",
+      "decreases",
+      "Regelung",
+      0.783
+    ],
+    [
+      "Neuron",
+      "decreases",
+      "Netzwerk",
+      0.783
+    ],
+    [
+      "Netzwerk",
+      "decreases",
+      "Wahrheit",
+      0.783
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Methode",
+      0.779
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Erkenntnis",
+      0.779
+    ],
+    [
+      "Logik",
+      "decreases",
+      "Information",
+      0.779
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Kausalitaet",
+      0.778
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Neuron",
+      0.778
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Kausalitaet",
+      0.778
+    ],
+    [
+      "Bewusstsein",
+      "decreases",
+      "Substanz",
+      0.778
+    ],
+    [
+      "Kraft",
+      "decreases",
+      "Signal",
+      0.773
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Zahl",
+      0.772
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Maschine",
+      0.772
+    ],
+    [
+      "Information",
+      "decreases",
+      "Wahrheit",
+      0.772
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Analysis",
+      0.771
+    ],
+    [
+      "Energie",
+      "decreases",
+      "Signal",
+      0.771
+    ],
+    [
+      "Magnet",
+      "decreases",
+      "Signal",
+      0.768
+    ],
+    [
+      "Regelung",
+      "decreases",
+      "Methode",
+      0.768
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Signal",
+      0.763
+    ],
+    [
+      "Netzwerk",
+      "decreases",
+      "Wesen",
+      0.763
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Sympathie",
+      0.754
+    ],
+    [
+      "Gehirn",
+      "decreases",
+      "Steuerung",
+      0.754
+    ],
+    [
+      "Kraft",
+      "decreases",
+      "Netzwerk",
+      0.752
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Steuerung",
+      0.752
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Quanten",
+      0.752
+    ],
+    [
+      "Netzwerk",
+      "decreases",
+      "Zahl",
+      0.751
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Steuerung",
+      0.75
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Denken",
+      0.749
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Berechnung",
+      0.746
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Steuerung",
+      0.744
+    ],
+    [
+      "Signal",
+      "decreases",
+      "Analysis",
+      0.744
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Maschine",
+      0.74
+    ],
+    [
+      "Quanten",
+      "decreases",
+      "Teilchen",
+      0.739
+    ],
+    [
+      "Quanten",
+      "decreases",
+      "Automat",
+      0.739
+    ],
+    [
+      "Denken",
+      "decreases",
+      "Netzwerk",
+      0.735
+    ],
+    [
+      "Regelung",
+      "decreases",
+      "Wesen",
+      0.732
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Automat",
+      0.731
+    ],
+    [
+      "Gehirn",
+      "decreases",
+      "Netzwerk",
+      0.731
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Kausalitaet",
+      0.726
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Gehirn",
+      0.726
+    ],
+    [
+      "Feld",
+      "decreases",
+      "Netzwerk",
+      0.724
+    ],
+    [
+      "Kraft",
+      "decreases",
+      "Teilchen",
+      0.723
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Erkenntnis",
+      0.721
+    ],
+    [
+      "Neuron",
+      "decreases",
+      "Kausalitaet",
+      0.72
+    ],
+    [
+      "Quanten",
+      "decreases",
+      "Kausalitaet",
+      0.719
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Kausalitaet",
+      0.718
+    ],
+    [
+      "Feld",
+      "decreases",
+      "Signal",
+      0.718
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "System",
+      0.717
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "Welle",
+      0.715
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Substanz",
+      0.715
+    ],
+    [
+      "Neuron",
+      "decreases",
+      "Signal",
+      0.715
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Signal",
+      0.714
+    ],
+    [
+      "Automat",
+      "decreases",
+      "Regelung",
+      0.714
+    ],
+    [
+      "Netzwerk",
+      "decreases",
+      "Kausalitaet",
+      0.714
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "Feld",
+      0.71
+    ],
+    [
+      "Energie",
+      "decreases",
+      "Kausalitaet",
+      0.708
+    ],
+    [
+      "Kraft",
+      "decreases",
+      "Kausalitaet",
+      0.706
+    ],
+    [
+      "Kraft",
+      "decreases",
+      "Resonanz",
+      0.705
+    ],
+    [
+      "Magnet",
+      "decreases",
+      "Sympathie",
+      0.705
+    ],
+    [
+      "Logik",
+      "decreases",
+      "Netzwerk",
+      0.705
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Wesen",
+      0.704
+    ],
+    [
+      "Denken",
+      "decreases",
+      "Information",
+      0.704
+    ],
+    [
+      "Denken",
+      "decreases",
+      "Signal",
+      0.704
+    ],
+    [
+      "Netzwerk",
+      "decreases",
+      "Methode",
+      0.704
+    ],
+    [
+      "Logik",
+      "decreases",
+      "Signal",
+      0.703
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Steuerung",
+      0.7
+    ],
+    [
+      "Welle",
+      "decreases",
+      "Teilchen",
+      0.7
+    ],
+    [
+      "Welle",
+      "decreases",
+      "Analysis",
+      0.698
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Naturlehre",
+      0.697
+    ],
+    [
+      "Intelligenz",
+      "decreases",
+      "Steuerung",
+      0.697
+    ],
+    [
+      "Intelligenz",
+      "decreases",
+      "Analysis",
+      0.696
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Quanten",
+      0.695
+    ],
+    [
+      "Energie",
+      "decreases",
+      "Maschine",
+      0.695
+    ],
+    [
+      "Intelligenz",
+      "decreases",
+      "Gehirn",
+      0.695
+    ],
+    [
+      "Gehirn",
+      "decreases",
+      "Analysis",
+      0.695
+    ],
+    [
+      "Signal",
+      "decreases",
+      "Zahl",
+      0.695
+    ],
+    [
+      "Zahl",
+      "decreases",
+      "Kausalitaet",
+      0.695
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Steuerung",
+      0.692
+    ],
+    [
+      "Neuron",
+      "decreases",
+      "Information",
+      0.692
+    ],
+    [
+      "Algorithmus",
+      "decreases",
+      "Automat",
+      0.692
+    ],
+    [
+      "Automat",
+      "decreases",
+      "Entropie",
+      0.692
+    ],
+    [
+      "Automat",
+      "decreases",
+      "Kybernetik",
+      0.692
+    ],
+    [
+      "Automat",
+      "decreases",
+      "Rueckkopplung",
+      0.692
+    ],
+    [
+      "Automat",
+      "decreases",
+      "Synthesis",
+      0.692
+    ],
+    [
+      "Steuerung",
+      "decreases",
+      "Kausalitaet",
+      0.692
+    ],
+    [
+      "Gehirn",
+      "decreases",
+      "Maschine",
+      0.69
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Intelligenz",
+      0.688
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Zahl",
+      0.688
+    ],
+    [
+      "Signal",
+      "decreases",
+      "Berechnung",
+      0.687
+    ],
+    [
+      "Intelligenz",
+      "decreases",
+      "Signal",
+      0.684
+    ],
+    [
+      "Logik",
+      "decreases",
+      "Regelung",
+      0.684
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "Zahl",
+      0.683
+    ],
+    [
+      "Logik",
+      "decreases",
+      "Berechnung",
+      0.681
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Berechnung",
+      0.68
+    ],
+    [
+      "Quanten",
+      "decreases",
+      "Welle",
+      0.677
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "Erkenntnis",
+      0.676
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Automat",
+      0.676
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Automat",
+      0.676
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Wahrheit",
+      0.675
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "Maschine",
+      0.674
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Feld",
+      0.674
+    ],
+    [
+      "Bewusstsein",
+      "decreases",
+      "Steuerung",
+      0.673
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Logik",
+      0.67
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Methode",
+      0.67
+    ],
+    [
+      "Kraft",
+      "decreases",
+      "Information",
+      0.668
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Erkenntnis",
+      0.667
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Erkenntnis",
+      0.667
+    ],
+    [
+      "Energie",
+      "decreases",
+      "Steuerung",
+      0.667
+    ],
+    [
+      "Netzwerk",
+      "decreases",
+      "Steuerung",
+      0.667
+    ],
+    [
+      "Netzwerk",
+      "decreases",
+      "Analysis",
+      0.667
+    ],
+    [
+      "Gehirn",
+      "decreases",
+      "Kausalitaet",
+      0.663
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Information",
+      0.657
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Maschine",
+      0.652
+    ],
+    [
+      "Neuron",
+      "decreases",
+      "Steuerung",
+      0.651
+    ],
+    [
+      "Electric",
+      "decreases",
+      "System",
+      0.65
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Kausalitaet",
+      0.644
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Wesen",
+      0.644
+    ],
+    [
+      "Information",
+      "decreases",
+      "Analysis",
+      0.641
+    ],
+    [
+      "Quanten",
+      "decreases",
+      "Energie",
+      0.64
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "Substanz",
+      0.637
+    ],
+    [
+      "Logik",
+      "decreases",
+      "Maschine",
+      0.637
+    ],
+    [
+      "Methode",
+      "decreases",
+      "Kausalitaet",
+      0.637
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "Naturlehre",
+      0.636
+    ],
+    [
+      "Maschine",
+      "decreases",
+      "Analysis",
+      0.636
+    ],
+    [
+      "Bewusstsein",
+      "decreases",
+      "Wahrheit",
+      0.635
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Resonanz",
+      0.634
+    ],
+    [
+      "Intelligenz",
+      "decreases",
+      "Kausalitaet",
+      0.634
+    ],
+    [
+      "Magnet",
+      "decreases",
+      "Kausalitaet",
+      0.632
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "Methode",
+      0.631
+    ],
+    [
+      "Bewusstsein",
+      "decreases",
+      "Denken",
+      0.631
+    ],
+    [
+      "Kraft",
+      "decreases",
+      "Erkenntnis",
+      0.63
+    ],
+    [
+      "System",
+      "decreases",
+      "Signal",
+      0.63
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "System",
+      0.629
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Analysis",
+      0.626
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Welle",
+      0.621
+    ],
+    [
+      "Intelligenz",
+      "decreases",
+      "Neuron",
+      0.621
+    ],
+    [
+      "System",
+      "decreases",
+      "Regelung",
+      0.621
+    ],
+    [
+      "Algorithmus",
+      "decreases",
+      "Analysis",
+      0.619
+    ],
+    [
+      "Entropie",
+      "decreases",
+      "Analysis",
+      0.619
+    ],
+    [
+      "Kybernetik",
+      "decreases",
+      "Analysis",
+      0.619
+    ],
+    [
+      "Rueckkopplung",
+      "decreases",
+      "Analysis",
+      0.619
+    ],
+    [
+      "Regelung",
+      "decreases",
+      "Analysis",
+      0.619
+    ],
+    [
+      "Analysis",
+      "decreases",
+      "Synthesis",
+      0.619
+    ],
+    [
+      "Welle",
+      "decreases",
+      "Erkenntnis",
+      0.618
+    ],
+    [
+      "Magnet",
+      "decreases",
+      "Maschine",
+      0.617
+    ],
+    [
+      "Magnet",
+      "decreases",
+      "Resonanz",
+      0.614
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Feld",
+      0.614
+    ],
+    [
+      "Signal",
+      "decreases",
+      "Erkenntnis",
+      0.614
+    ],
+    [
+      "Kausalitaet",
+      "decreases",
+      "Wahrheit",
+      0.614
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Wesen",
+      0.613
+    ],
+    [
+      "Energie",
+      "decreases",
+      "Intelligenz",
+      0.613
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Resonanz",
+      0.611
+    ],
+    [
+      "Bewusstsein",
+      "decreases",
+      "System",
+      0.611
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Substanz",
+      0.61
+    ],
+    [
+      "Quanten",
+      "decreases",
+      "Steuerung",
+      0.61
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Analysis",
+      0.606
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Logik",
+      0.601
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "Netzwerk",
+      0.6
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "System",
+      0.6
+    ],
+    [
+      "Algorithmus",
+      "decreases",
+      "Steuerung",
+      0.6
+    ],
+    [
+      "Information",
+      "decreases",
+      "Netzwerk",
+      0.6
+    ],
+    [
+      "Entropie",
+      "decreases",
+      "Steuerung",
+      0.6
+    ],
+    [
+      "Kybernetik",
+      "decreases",
+      "Steuerung",
+      0.6
+    ],
+    [
+      "Rueckkopplung",
+      "decreases",
+      "Steuerung",
+      0.6
+    ],
+    [
+      "Netzwerk",
+      "decreases",
+      "Signal",
+      0.6
+    ],
+    [
+      "Regelung",
+      "decreases",
+      "Erkenntnis",
+      0.6
+    ],
+    [
+      "Steuerung",
+      "decreases",
+      "Synthesis",
+      0.6
+    ],
+    [
+      "Intelligenz",
+      "decreases",
+      "Methode",
+      0.598
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Berechnung",
+      0.594
+    ],
+    [
+      "Bewusstsein",
+      "decreases",
+      "Wesen",
+      0.593
+    ],
+    [
+      "Signal",
+      "decreases",
+      "Methode",
+      0.593
+    ],
+    [
+      "Neuron",
+      "decreases",
+      "Erkenntnis",
+      0.586
+    ],
+    [
+      "Denken",
+      "decreases",
+      "Kausalitaet",
+      0.584
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Wahrheit",
+      0.583
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Automat",
+      0.583
+    ],
+    [
+      "Intelligenz",
+      "decreases",
+      "Bewusstsein",
+      0.583
+    ],
+    [
+      "Automat",
+      "decreases",
+      "Analysis",
+      0.583
+    ],
+    [
+      "Logik",
+      "decreases",
+      "Automat",
+      0.582
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Information",
+      0.581
+    ],
+    [
+      "Intelligenz",
+      "decreases",
+      "Zahl",
+      0.581
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Wesen",
+      0.58
+    ],
+    [
+      "Quanten",
+      "decreases",
+      "Substanz",
+      0.58
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "System",
+      0.579
+    ],
+    [
+      "Bewusstsein",
+      "decreases",
+      "Logik",
+      0.579
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "Wesen",
+      0.576
+    ],
+    [
+      "Quanten",
+      "decreases",
+      "Neuron",
+      0.576
+    ],
+    [
+      "Intelligenz",
+      "decreases",
+      "System",
+      0.576
+    ],
+    [
+      "Quanten",
+      "decreases",
+      "Intelligenz",
+      0.573
+    ],
+    [
+      "Feld",
+      "decreases",
+      "Intelligenz",
+      0.573
+    ],
+    [
+      "Information",
+      "decreases",
+      "Methode",
+      0.572
+    ],
+    [
+      "Bewusstsein",
+      "decreases",
+      "Analysis",
+      0.571
+    ],
+    [
+      "Feld",
+      "decreases",
+      "Kausalitaet",
+      0.57
+    ],
+    [
+      "Maschine",
+      "decreases",
+      "Methode",
+      0.57
+    ],
+    [
+      "Feld",
+      "decreases",
+      "Information",
+      0.569
+    ],
+    [
+      "Analysis",
+      "decreases",
+      "Substanz",
+      0.568
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Wahrheit",
+      0.567
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Substanz",
+      0.567
+    ],
+    [
+      "Automat",
+      "decreases",
+      "Kausalitaet",
+      0.567
+    ],
+    [
+      "Energie",
+      "decreases",
+      "Berechnung",
+      0.566
+    ],
+    [
+      "Kraft",
+      "decreases",
+      "Analysis",
+      0.565
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Logik",
+      0.562
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Zahl",
+      0.559
+    ],
+    [
+      "Automat",
+      "decreases",
+      "Wahrheit",
+      0.559
+    ],
+    [
+      "Magnet",
+      "decreases",
+      "Teilchen",
+      0.558
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "Berechnung",
+      0.558
+    ],
+    [
+      "Energie",
+      "decreases",
+      "Erkenntnis",
+      0.558
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Berechnung",
+      0.557
+    ],
+    [
+      "Information",
+      "decreases",
+      "Regelung",
+      0.556
+    ],
+    [
+      "Denken",
+      "decreases",
+      "Automat",
+      0.554
+    ],
+    [
+      "Welle",
+      "decreases",
+      "Logik",
+      0.553
+    ],
+    [
+      "Welle",
+      "decreases",
+      "Information",
+      0.553
+    ],
+    [
+      "System",
+      "decreases",
+      "Netzwerk",
+      0.547
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Teilchen",
+      0.544
+    ],
+    [
+      "Denken",
+      "decreases",
+      "Analysis",
+      0.544
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Lebenskraft",
+      0.542
+    ],
+    [
+      "Gehirn",
+      "decreases",
+      "Erkenntnis",
+      0.54
+    ],
+    [
+      "Maschine",
+      "decreases",
+      "Erkenntnis",
+      0.538
+    ],
+    [
+      "Logik",
+      "decreases",
+      "Kausalitaet",
+      0.537
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Logik",
+      0.534
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "System",
+      0.533
+    ],
+    [
+      "Analysis",
+      "decreases",
+      "Wahrheit",
+      0.533
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Lebenskraft",
+      0.532
+    ],
+    [
+      "Information",
+      "decreases",
+      "Zahl",
+      0.532
+    ],
+    [
+      "Quanten",
+      "decreases",
+      "Analysis",
+      0.529
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Denken",
+      0.526
+    ],
+    [
+      "Quanten",
+      "decreases",
+      "Gehirn",
+      0.526
+    ],
+    [
+      "Maschine",
+      "decreases",
+      "Signal",
+      0.524
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Methode",
+      0.522
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Zahl",
+      0.519
+    ],
+    [
+      "Kausalitaet",
+      "decreases",
+      "Substanz",
+      0.516
+    ],
+    [
+      "Berechnung",
+      "decreases",
+      "Substanz",
+      0.51
+    ],
+    [
+      "Neuron",
+      "decreases",
+      "Maschine",
+      0.508
+    ],
+    [
+      "Magnet",
+      "decreases",
+      "Analysis",
+      0.505
+    ],
+    [
+      "Maschine",
+      "decreases",
+      "Information",
+      0.505
+    ],
+    [
+      "Aether",
+      "decreases",
+      "System",
+      0.504
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Denken",
+      0.504
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Wahrheit",
+      0.504
+    ],
+    [
+      "Feld",
+      "decreases",
+      "Analysis",
+      0.501
+    ],
+    [
+      "Magnet",
+      "decreases",
+      "Erkenntnis",
+      0.5
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "Information",
+      0.5
+    ],
+    [
+      "Welle",
+      "decreases",
+      "Maschine",
+      0.5
+    ],
+    [
+      "Algorithmus",
+      "decreases",
+      "Information",
+      0.5
+    ],
+    [
+      "Algorithmus",
+      "decreases",
+      "Signal",
+      0.5
+    ],
+    [
+      "Information",
+      "decreases",
+      "Entropie",
+      0.5
+    ],
+    [
+      "Information",
+      "decreases",
+      "Kybernetik",
+      0.5
+    ],
+    [
+      "Information",
+      "decreases",
+      "Rueckkopplung",
+      0.5
+    ],
+    [
+      "Information",
+      "decreases",
+      "Synthesis",
+      0.5
+    ],
+    [
+      "Entropie",
+      "decreases",
+      "Signal",
+      0.5
+    ],
+    [
+      "Kybernetik",
+      "decreases",
+      "Signal",
+      0.5
+    ],
+    [
+      "Rueckkopplung",
+      "decreases",
+      "Signal",
+      0.5
+    ],
+    [
+      "Regelung",
+      "decreases",
+      "Signal",
+      0.5
+    ],
+    [
+      "Signal",
+      "decreases",
+      "Synthesis",
+      0.5
+    ],
+    [
+      "Signal",
+      "decreases",
+      "Wesen",
+      0.5
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Wesen",
+      0.499
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Methode",
+      0.495
+    ],
+    [
+      "Automat",
+      "decreases",
+      "Netzwerk",
+      0.495
+    ],
+    [
+      "Information",
+      "decreases",
+      "Substanz",
+      0.495
+    ],
+    [
+      "Information",
+      "decreases",
+      "Wesen",
+      0.494
+    ],
+    [
+      "Berechnung",
+      "decreases",
+      "Erkenntnis",
+      0.493
+    ],
+    [
+      "Maschine",
+      "decreases",
+      "Zahl",
+      0.492
+    ],
+    [
+      "Feld",
+      "decreases",
+      "Maschine",
+      0.489
+    ],
+    [
+      "Welle",
+      "decreases",
+      "Automat",
+      0.487
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Denken",
+      0.481
+    ],
+    [
+      "Automat",
+      "decreases",
+      "Erkenntnis",
+      0.481
+    ],
+    [
+      "Kraft",
+      "decreases",
+      "Maschine",
+      0.48
+    ],
+    [
+      "Quanten",
+      "decreases",
+      "Erkenntnis",
+      0.478
+    ],
+    [
+      "Berechnung",
+      "decreases",
+      "Analysis",
+      0.478
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Feld",
+      0.476
+    ],
+    [
+      "Electric",
+      "decreases",
+      "Gehirn",
+      0.476
+    ],
+    [
+      "Denken",
+      "decreases",
+      "Maschine",
+      0.469
+    ],
+    [
+      "Quanten",
+      "decreases",
+      "Logik",
+      0.466
+    ],
+    [
+      "Energie",
+      "decreases",
+      "System",
+      0.464
+    ],
+    [
+      "Steuerung",
+      "decreases",
+      "Wahrheit",
+      0.464
+    ],
+    [
+      "Resonanz",
+      "decreases",
+      "Automat",
+      0.462
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Energie",
+      0.462
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Electric",
+      0.46
+    ],
+    [
+      "Sympathie",
+      "decreases",
+      "Neuron",
+      0.458
+    ],
+    [
+      "Teilchen",
+      "decreases",
+      "Wesen",
+      0.455
+    ],
+    [
+      "Gehirn",
+      "decreases",
+      "Substanz",
+      0.455
+    ],
+    [
+      "Information",
+      "decreases",
+      "Signal",
+      0.455
+    ],
+    [
+      "Maschine",
+      "decreases",
+      "Berechnung",
+      0.454
+    ],
+    [
+      "Welle",
+      "decreases",
+      "Substanz",
+      0.453
+    ],
+    [
+      "Gehirn",
+      "decreases",
+      "Berechnung",
+      0.453
+    ],
+    [
+      "Maschine",
+      "decreases",
+      "Steuerung",
+      0.447
+    ],
+    [
+      "Maschine",
+      "decreases",
+      "Wahrheit",
+      0.445
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Denken",
+      0.444
+    ],
+    [
+      "Intelligenz",
+      "decreases",
+      "Wahrheit",
+      0.442
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Substanz",
+      0.439
+    ],
+    [
+      "Magnet",
+      "decreases",
+      "Information",
+      0.438
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Denken",
+      0.436
+    ],
+    [
+      "Intelligenz",
+      "decreases",
+      "Erkenntnis",
+      0.435
+    ],
+    [
+      "Kraft",
+      "decreases",
+      "Quanten",
+      0.433
+    ],
+    [
+      "Intelligenz",
+      "decreases",
+      "Denken",
+      0.432
+    ],
+    [
+      "Denken",
+      "increases",
+      "Wahrheit",
+      0.432
+    ],
+    [
+      "Magnet",
+      "decreases",
+      "Steuerung",
+      0.429
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Netzwerk",
+      0.429
+    ],
+    [
+      "Bewusstsein",
+      "decreases",
+      "Erkenntnis",
+      0.429
+    ],
+    [
+      "Neuron",
+      "decreases",
+      "Automat",
+      0.429
+    ],
+    [
+      "Logik",
+      "decreases",
+      "Steuerung",
+      0.429
+    ],
+    [
+      "Naturlehre",
+      "decreases",
+      "Zahl",
+      0.424
+    ],
+    [
+      "Signal",
+      "decreases",
+      "Substanz",
+      0.421
+    ],
+    [
+      "Aether",
+      "decreases",
+      "Quanten",
+      0.42
+    ],
+    [
+      "Logik",
+      "decreases",
+      "Analysis",
+      0.42
+    ],
+    [
+      "Magnet",
+      "decreases",
+      "Logik",
+      0.419
+    ],
+    [
+      "Energie",
+      "decreases",
+      "Automat",
+      0.419
+    ],
+    [
+      "Information",
+      "decreases",
+      "System",
+      0.419
+    ],
+    [
+      "Automat",
+      "decreases",
+      "Signal",
+      0.417
+    ],
+    [
+      "Information",
+      "decreases",
+      "Erkenntnis",
+      0.417
+    ],
+    [
+      "Lebenskraft",
+      "decreases",
+      "Feld",
+      0.415
+    ],
+    [
+      "Kraft",
+      "decreases",
+      "Steuerung",
+      0.413
+    ],
+    [
+      "Analysis",
+      "decreases",
+      "Erkenntnis",
+      0.412
+    ],
+    [
+      "Kraft",
+      "decreases",
+      "Sympathie",
+      0.41
+    ],
+    [
+      "System",
+      "decreases",
+      "Kausalitaet",
+      0.41
+    ],
+    [
+      "Steuerung",
+      "decreases",
+      "Substanz",
+      0.41
+    ],
+    [
+      "Welle",
+      "decreases",
+      "Steuerung",
+      0.409
+    ],
+    [
+      "Welle",
+      "decreases",
+      "Wesen",
+      0.409
+    ],
+    [
+      "Berechnung",
+      "decreases",
+      "Wesen",
+      0.406
+    ],
+    [
+      "Methode",
+      "decreases",
+      "Substanz",
+      0.401
+    ]
+  ],
+  "text_count": 42,
+  "keywords_old": [
+    "Aether",
+    "Kraft",
+    "Magnet",
+    "Electric",
+    "Lebenskraft",
+    "Resonanz",
+    "Sympathie",
+    "Hermetik",
+    "Magia",
+    "Naturlehre",
+    "OrganPhysik"
+  ],
+  "keywords_new": [
+    "Quanten",
+    "Welle",
+    "Teilchen",
+    "Feld",
+    "Energie",
+    "Intelligenz",
+    "Kognition",
+    "Bewusstsein",
+    "Denken",
+    "Gehirn",
+    "Neuron",
+    "Logik",
+    "Algorithmus",
+    "Automat",
+    "Maschine",
+    "Information",
+    "Entropie",
+    "System",
+    "Kybernetik",
+    "Rueckkopplung",
+    "Netzwerk",
+    "Regelung",
+    "Steuerung",
+    "Signal",
+    "Berechnung",
+    "Zahl",
+    "Methode",
+    "Analysis",
+    "Synthesis",
+    "Kausalitaet",
+    "Substanz",
+    "Wesen",
+    "Erkenntnis",
+    "Wahrheit"
+  ],
+  "keyword_totals": {
+    "Aether": 380,
+    "Kraft": 2942,
+    "Magnet": 1572,
+    "Electric": 179,
+    "Lebenskraft": 95,
+    "Resonanz": 4,
+    "Sympathie": 46,
+    "Hermetik": 0,
+    "Magia": 1,
+    "Naturlehre": 83,
+    "OrganPhysik": 0,
+    "Quanten": 75,
+    "Welle": 753,
+    "Teilchen": 5,
+    "Feld": 279,
+    "Energie": 543,
+    "Intelligenz": 64,
+    "Kognition": 0,
+    "Bewusstsein": 226,
+    "Denken": 864,
+    "Gehirn": 383,
+    "Neuron": 1326,
+    "Logik": 193,
+    "Algorithmus": 10,
+    "Automat": 54,
+    "Maschine": 1293,
+    "Information": 418,
+    "Entropie": 1,
+    "System": 3036,
+    "Kybernetik": 358,
+    "Rueckkopplung": 39,
+    "Netzwerk": 5,
+    "Regelung": 124,
+    "Steuerung": 141,
+    "Signal": 56,
+    "Berechnung": 298,
+    "Zahl": 3109,
+    "Methode": 998,
+    "Analysis": 22,
+    "Synthesis": 2,
+    "Kausalitaet": 10,
+    "Substanz": 1001,
+    "Wesen": 1127,
+    "Erkenntnis": 448,
+    "Wahrheit": 640
+  }
+}
