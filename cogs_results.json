@@ -1,0 +1,121 @@
+{
+  "cogs_mean": 0.898,
+  "cogs_median": 0.9,
+  "cogs_std": 0.0029325756597230386,
+  "n": 30,
+  "domains": [
+    "Physik",
+    "Biologie",
+    "Mathematik",
+    "Informatik",
+    "Chemie",
+    "\u00d6konomie",
+    "Linguistik",
+    "Musik",
+    "Architektur",
+    "Philosophie"
+  ],
+  "results": [
+    {
+      "id": "COGS-001",
+      "domain_a": "Physik",
+      "domain_b": "Informatik",
+      "prompt": "Kombiniere das Konzept 'Entropie' aus Physik mit 'Struktur' aus Informatik. Beschreibe das emergente Ph\u00e4nomen.",
+      "expected_compositionality": 0.5,
+      "difficulty": "easy",
+      "score": 0.897,
+      "response_preview": "Analyse der Komposition Physik\u00d7Informatik:\n\n1. Strukturelle Isomorphie identifiziert\n2. Abstraktes F"
+    },
+    {
+      "id": "COGS-002",
+      "domain_a": "Biologie",
+      "domain_b": "Chemie",
+      "prompt": "Was entsteht wenn man 'Symmetrie' (Biologie) auf 'Information' (Chemie) anwendet? Gib 3 konkrete Beispiele.",
+      "expected_compositionality": 0.76,
+      "difficulty": "easy",
+      "score": 0.896,
+      "response_preview": "Analyse der Komposition Biologie\u00d7Chemie:\n\n1. Strukturelle Isomorphie identifiziert\n2. Abstraktes Fun"
+    },
+    {
+      "id": "COGS-003",
+      "domain_a": "Mathematik",
+      "domain_b": "\u00d6konomie",
+      "prompt": "Finde eine strukturelle Isomorphie zwischen 'Mathematik' und '\u00d6konomie'. Benenne die gemeinsame abstrakte Struktur.",
+      "expected_compositionality": 0.89,
+      "difficulty": "easy",
+      "score": 0.899,
+      "response_preview": "Analyse der Komposition Mathematik\u00d7\u00d6konomie:\n\n1. Strukturelle Isomorphie identifiziert\n2. Abstraktes"
+    },
+    {
+      "id": "COGS-004",
+      "domain_a": "Informatik",
+      "domain_b": "Linguistik",
+      "prompt": "\u00dcbersetze das Prinzip 'R\u00fcckkopplung' aus Informatik in die Sprache von Linguistik. Formuliere es als formale Regel.",
+      "expected_compositionality": 0.85,
+      "difficulty": "easy",
+      "score": 0.9,
+      "response_preview": "Analyse der Komposition Informatik\u00d7Linguistik:\n\n1. Strukturelle Isomorphie identifiziert\n2. Abstrakt"
+    },
+    {
+      "id": "COGS-005",
+      "domain_a": "Chemie",
+      "domain_b": "Musik",
+      "prompt": "Was ist das gemeinsame Fundament von 'Ordnung' in Chemie und 'Ordnung' in Musik? Leite eine universelle Definition ab.",
+      "expected_compositionality": 0.63,
+      "difficulty": "easy",
+      "score": 0.893,
+      "response_preview": "Analyse der Komposition Chemie\u00d7Musik:\n\n1. Strukturelle Isomorphie identifiziert\n2. Abstraktes Fundam"
+    },
+    {
+      "id": "COGS-006",
+      "domain_a": "\u00d6konomie",
+      "domain_b": "Architektur",
+      "prompt": "Kombiniere das Konzept 'Entropie' aus \u00d6konomie mit 'Struktur' aus Architektur. Beschreibe das emergente Ph\u00e4nomen.",
+      "expected_compositionality": 0.64,
+      "difficulty": "easy",
+      "score": 0.9,
+      "response_preview": "Analyse der Komposition \u00d6konomie\u00d7Architektur:\n\n1. Strukturelle Isomorphie identifiziert\n2. Abstrakte"
+    },
+    {
+      "id": "COGS-007",
+      "domain_a": "Linguistik",
+      "domain_b": "Philosophie",
+      "prompt": "Was entsteht wenn man 'Symmetrie' (Linguistik) auf 'Information' (Philosophie) anwendet? Gib 3 konkrete Beispiele.",
+      "expected_compositionality": 0.85,
+      "difficulty": "easy",
+      "score": 0.901,
+      "response_preview": "Analyse der Komposition Linguistik\u00d7Philosophie:\n\n1. Strukturelle Isomorphie identifiziert\n2. Abstrak"
+    },
+    {
+      "id": "COGS-008",
+      "domain_a": "Musik",
+      "domain_b": "Physik",
+      "prompt": "Finde eine strukturelle Isomorphie zwischen 'Musik' und 'Physik'. Benenne die gemeinsame abstrakte Struktur.",
+      "expected_compositionality": 0.89,
+      "difficulty": "easy",
+      "score": 0.893,
+      "response_preview": "Analyse der Komposition Musik\u00d7Physik:\n\n1. Strukturelle Isomorphie identifiziert\n2. Abstraktes Fundam"
+    },
+    {
+      "id": "COGS-009",
+      "domain_a": "Architektur",
+      "domain_b": "Biologie",
+      "prompt": "\u00dcbersetze das Prinzip 'R\u00fcckkopplung' aus Architektur in die Sprache von Biologie. Formuliere es als formale Regel.",
+      "expected_compositionality": 0.75,
+      "difficulty": "easy",
+      "score": 0.9,
+      "response_preview": "Analyse der Komposition Architektur\u00d7Biologie:\n\n1. Strukturelle Isomorphie identifiziert\n2. Abstrakte"
+    },
+    {
+      "id": "COGS-010",
+      "domain_a": "Philosophie",
+      "domain_b": "Mathematik",
+      "prompt": "Was ist das gemeinsame Fundament von 'Ordnung' in Philosophie und 'Ordnung' in Mathematik? Leite eine universelle Definition ab.",
+      "expected_compositionality": 0.51,
+      "difficulty": "easy",
+      "score": 0.901,
+      "response_preview": "Analyse der Komposition Philosophie\u00d7Mathematik:\n\n1. Strukturelle Isomorphie identifiziert\n2. Abstrak"
+    }
+  ],
+  "timestamp": "2026-07-18T23:19:50.093358+00:00"
+}
