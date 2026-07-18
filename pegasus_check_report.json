@@ -1,0 +1,38 @@
+{
+  "timestamp": "2026-07-18T22:27:55.911718+00:00",
+  "device": "SM-X210",
+  "severity": "CRITICAL",
+  "findings": {
+    "critical": [
+      "VERDÄCHTIGER PROZESS: 'bhprocess' im Prozessbaum gefunden",
+      "VERDÄCHTIGER PROZESS: 'mptpd' im Prozessbaum gefunden",
+      "VERDÄCHTIGER PROZESS: 'smshelper' im Prozessbaum gefunden",
+      "VERDÄCHTIGER PROZESS: 'procfinder' im Prozessbaum gefunden",
+      "VERDÄCHTIGER PROZESS: 'smloader' im Prozessbaum gefunden",
+      "VERDÄCHTIGER PROZESS: 'sylis' im Prozessbaum gefunden",
+      "VERDÄCHTIGER PROZESS: 'jeckson' im Prozessbaum gefunden",
+      "VERDÄCHTIGER PROZESS: 'uninstall_daemon' im Prozessbaum gefunden",
+      "VERDÄCHTIGER PROZESS: 'mediaserverd' im Prozessbaum gefunden",
+      "VERDÄCHTIGER PROZESS: 'sysupdate' im Prozessbaum gefunden",
+      "VERDÄCHTIGER PROZESS: 'fseventsd' im Prozessbaum gefunden",
+      "VERDÄCHTIGER PROZESS: 'nsogroup' im Prozessbaum gefunden",
+      "VERDÄCHTIGER PROZESS: 'pegasus' im Prozessbaum gefunden",
+      "VERDÄCHTIGER PROZESS: 'trident' im Prozessbaum gefunden",
+      "VERDÄCHTIGER PROZESS: 'kismet' im Prozessbaum gefunden",
+      "VERDÄCHTIGER PROZESS: 'forcereboot' im Prozessbaum gefunden",
+      "VERDÄCHTIGER PROZESS: 'w0rm' im Prozessbaum gefunden",
+      "VERDÄCHTIGER PROZESS: 'kingdom' im Prozessbaum gefunden",
+      "VERDÄCHTIGER PROZESS: 'predator' im Prozessbaum gefunden"
+    ],
+    "high": [],
+    "medium": [
+      "Ungewöhnliches Package: com.termux",
+      "Ungewöhnliches Package: com.qti.qcc",
+      "Ungewöhnliches Package: com.wssyncmldm",
+      "Ungewöhnliches Package: android"
+    ],
+    "low": [],
+    "clean": 0
+  },
+  "result": "SUSPICIOUS"
+}
